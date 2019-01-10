@@ -1,0 +1,1951 @@
+﻿Log file open, 11/04/18 18:27:04
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: FuturacingMobile
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 47 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.726247
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: +7:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapEmulator
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  3.704s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.20-CL-4369336
+LogInit: Engine Version: 4.20.3-4369336+++UE4+Release-4.20
+LogInit: Compatible Engine Version: 4.20.0-4212847+++UE4+Release-4.20
+LogInit: Net CL: 4212847
+LogInit: OS: Windows 10 (), CPU:        Intel(R) Xeon(R) CPU E5-2660 0 @ 2.20GHz, GPU: NVIDIA GeForce GTX 970
+LogInit: Compiled (64-bit): Sep 17 2018 12:26:19
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.20
+LogInit: Command Line:  
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.20/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 20
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 24
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 26
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 12
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 1
+LogStreaming: Display: Took  0.009s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.11.04-11.27.05:279][  0]LogInit: Selected Device Profile: [Windows]
+[2018.11.04-11.27.05:279][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.11.04-11.27.05:323][  0]LogHAL: Display: Platform has ~ 16 GB [17094635520 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2018.11.04-11.27.05:324][  0]LogInit: Setting Device Profile CVar: [[r.Vulkan.UseRealUBs:1]]
+[2018.11.04-11.27.05:324][  0]LogInit: Going up to parent DeviceProfile []
+[2018.11.04-11.27.05:324][  0]LogInit: Computer: DESKTOP-HJJSQC2
+[2018.11.04-11.27.05:324][  0]LogInit: User: spole
+[2018.11.04-11.27.05:324][  0]LogInit: CPU Page size=4096, Cores=8
+[2018.11.04-11.27.05:324][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2018.11.04-11.27.05:325][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2018.11.04-11.27.05:325][  0]LogMemory: Platform Memory Stats for Windows
+[2018.11.04-11.27.05:325][  0]LogMemory: Process Physical Memory: 104.06 MB used, 104.06 MB peak
+[2018.11.04-11.27.05:325][  0]LogMemory: Process Virtual Memory: 91.45 MB used, 91.45 MB peak
+[2018.11.04-11.27.05:325][  0]LogMemory: Physical Memory: 5970.63 MB used,  10332.09 MB free, 16302.71 MB total
+[2018.11.04-11.27.05:325][  0]LogMemory: Virtual Memory: 4678.40 MB used,  10332.09 MB free, 134217728.00 MB total
+[2018.11.04-11.27.05:383][  0]LogInit: Using OS detected language (ru-RU).
+[2018.11.04-11.27.05:383][  0]LogInit: Using OS detected locale (ru-RU).
+[2018.11.04-11.27.05:386][  0]LogTextLocalizationManager: No specific localization for 'ru-RU' exists, so the 'ru' localization will be used.
+[2018.11.04-11.27.05:392][  0]LogStreaming: Display: Took  0.009s to InitEngineTextLocalization.
+[2018.11.04-11.27.05:392][  0]LogInit: Setting process to per monitor DPI aware
+[2018.11.04-11.27.05:484][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.11.04-11.27.05:484][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.11.04-11.27.05:977][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.11.04-11.27.05:977][  0]LogD3D11RHI: D3D11 adapters:
+[2018.11.04-11.27.06:110][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 970' (Feature Level 11_0)
+[2018.11.04-11.27.06:110][  0]LogD3D11RHI:       4043/0/8151 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2018.11.04-11.27.06:115][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.11.04-11.27.06:115][  0]LogD3D11RHI:       0/0/8151 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.11.04-11.27.06:115][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.11.04-11.27.06:128][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.11.04-11.27.06:128][  0]LogD3D11RHI:     GPU DeviceId: 0x13c2 (for the marketing name, search the web for "GPU Device Id")
+[2018.11.04-11.27.06:128][  0]LogWindows: EnumDisplayDevices:
+[2018.11.04-11.27.06:129][  0]LogWindows:    0. 'NVIDIA GeForce GTX 970' (P:1 D:1)
+[2018.11.04-11.27.06:130][  0]LogWindows:    1. 'NVIDIA GeForce GTX 970' (P:0 D:1)
+[2018.11.04-11.27.06:130][  0]LogWindows:    2. 'NVIDIA GeForce GTX 970' (P:0 D:0)
+[2018.11.04-11.27.06:131][  0]LogWindows:    3. 'NVIDIA GeForce GTX 970' (P:0 D:0)
+[2018.11.04-11.27.06:131][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2018.11.04-11.27.06:131][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 970
+[2018.11.04-11.27.06:131][  0]LogD3D11RHI:   Driver Version: 398.36 (internal:24.21.13.9836, unified:398.36)
+[2018.11.04-11.27.06:132][  0]LogD3D11RHI:      Driver Date: 6-24-2018
+[2018.11.04-11.27.06:132][  0]LogRHI: Texture pool is 2830 MB (70% of 4043 MB)
+[2018.11.04-11.27.06:227][  0]LogD3D11RHI: [Aftermath] Enabled and primed
+[2018.11.04-11.27.06:227][  0]LogD3D11RHI: Async texture creation enabled
+[2018.11.04-11.27.06:295][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.11.04-11.27.06:355][  0]LogShaderCompilers: Guid format shader working directory is -26 characters bigger than the processId version (../../../../../../Users/spole/Documents/Unreal Projects/FuturacingMobile/Intermediate/Shaders/WorkingDirectory/1384/).
+[2018.11.04-11.27.06:355][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/spole/AppData/Local/Temp/UnrealShaderWorkingDir/92D08617425BBCDAAF272DA6E7E4C7C4/'.
+[2018.11.04-11.27.06:955][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.11.04-11.27.06:990][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.11.04-11.27.07:023][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.11.04-11.27.07:059][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.11.04-11.27.07:095][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.11.04-11.27.07:128][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.11.04-11.27.07:162][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.11.04-11.27.07:195][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.11.04-11.27.07:212][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.11.04-11.27.07:389][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.04-11.27.07:389][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.04-11.27.07:389][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.04-11.27.07:389][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.04-11.27.07:389][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.04-11.27.07:389][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.04-11.27.07:389][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.04-11.27.07:389][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.04-11.27.07:389][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.04-11.27.07:390][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.04-11.27.07:390][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.04-11.27.07:390][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.04-11.27.07:390][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.04-11.27.07:390][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.04-11.27.07:390][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.04-11.27.07:390][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.04-11.27.07:390][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.04-11.27.07:390][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.04-11.27.07:393][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.11.04-11.27.07:501][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.11.04-11.27.07:501][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.11.04-11.27.07:551][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.11.04-11.27.07:552][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.11.04-11.27.07:578][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.11.04-11.27.07:605][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.11.04-11.27.07:631][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.11.04-11.27.07:661][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.11.04-11.27.07:681][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2018.11.04-11.27.07:681][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.11.04-11.27.07:898][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.11.04-11.27.07:898][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.11.04-11.27.07:898][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.11.04-11.27.09:688][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.11.04-11.27.09:899][  0]LogDerivedDataCache: Loaded boot cache 0.21s 85MB C:/Users/spole/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.11.04-11.27.09:899][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/spole/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc
+[2018.11.04-11.27.09:899][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/spole/Documents/Unreal Projects/FuturacingMobile/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.11.04-11.27.09:899][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.11.04-11.27.09:899][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/spole/Documents/Unreal Projects/FuturacingMobile/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.11.04-11.27.09:899][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.11.04-11.27.09:927][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.11.04-11.27.09:943][  0]LogDerivedDataCache: Using Local data cache path C:/Users/spole/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.11.04-11.27.09:943][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.11.04-11.27.09:943][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.11.04-11.27.09:983][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.11.04-11.27.09:986][  0]LogSlate: Using FreeType 2.6.0
+[2018.11.04-11.27.09:987][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.11.04-11.27.10:147][  0]LogAssetRegistry: FAssetRegistry took 0.0316 seconds to start up
+[2018.11.04-11.27.10:906][  0]LogInit: Selected Device Profile: [Windows]
+[2018.11.04-11.27.11:230][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.11.04-11.27.11:243][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.11.04-11.27.11:243][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2018.11.04-11.27.11:243][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.11.04-11.27.11:243][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.11.04-11.27.11:293][  0]LogNetVersion: FuturacingMobile 1.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 3346127068)
+[2018.11.04-11.27.12:546][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.245372 seconds
+[2018.11.04-11.27.12:555][  0]LogUObjectArray: 38425 objects as part of root set at end of initial load.
+[2018.11.04-11.27.12:555][  0]LogUObjectAllocator: 6690872 out of 0 bytes used by permanent object pool.
+[2018.11.04-11.27.12:555][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.11.04-11.27.14:607][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.11.04-11.27.14:624][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.11.04-11.27.14:884][  0]SourceControl: Source control is disabled
+[2018.11.04-11.27.14:884][  0]SourceControl: Source control is disabled
+[2018.11.04-11.27.14:888][  0]SourceControl: Source control is disabled
+[2018.11.04-11.27.14:890][  0]SourceControl: Source control is disabled
+[2018.11.04-11.27.15:160][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.11.04-11.27.15:363][  0]LogOcInput: OculusInput pre-init called
+[2018.11.04-11.27.15:495][  0]LogEngine: Initializing Engine...
+[2018.11.04-11.27.15:497][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.11.04-11.27.15:502][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.11.04-11.27.15:502][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.11.04-11.27.15:502][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.11.04-11.27.15:502][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.11.04-11.27.16:039][  0]LogInit: Initializing FReadOnlyCVARCache
+[2018.11.04-11.27.16:078][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.11.04-11.27.16:139][  0]LogInit: XAudio2 using 'Динамики (Устройство с поддержкой High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.11.04-11.27.16:216][  0]LogInit: FAudioDevice initialized.
+[2018.11.04-11.27.16:217][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2018.11.04-11.27.17:107][  0]LogDerivedDataCache: Saved boot cache 0.89s 85MB C:/Users/spole/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.11.04-11.27.17:219][  0]LogInit: Texture streaming: Enabled
+[2018.11.04-11.27.17:298][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.11.04-11.27.17:350][  0]LogInit: Transaction tracking system initialized
+[2018.11.04-11.27.17:428][  0]BlueprintLog: New page: Editor Load
+[2018.11.04-11.27.17:682][  0]LocalizationService: Localization service is disabled
+[2018.11.04-11.27.19:421][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.11.04-11.27.19:421][  0]LogCook: Display: Mobile HDR setting 0
+[2018.11.04-11.27.19:421][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.11.04-11.27.19:422][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.11.04-11.27.19:422][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.11.04-11.27.19:422][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.11.04-11.27.19:422][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.11.04-11.27.19:745][  0]LogFileCache: Scanning file cache for directory 'C:/Users/spole/Documents/Unreal Projects/FuturacingMobile/Content/' took 0.04s
+[2018.11.04-11.27.19:746][  0]SourceControl: Source control is disabled
+[2018.11.04-11.27.19:746][  0]Cmd: MAP LOAD FILE="../../../../../../Users/spole/Documents/Unreal Projects/FuturacingMobile/Content/AllAssets/Levels/Garage/GarageMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.11.04-11.27.19:843][  0]LightingResults: New page: Lighting Build
+[2018.11.04-11.27.19:853][  0]MapCheck: New page: Map Check
+[2018.11.04-11.27.19:853][  0]LightingResults: New page: Lighting Build
+[2018.11.04-11.27.30:585][  0]LogAIModule: Creating AISystem for world GarageMap
+[2018.11.04-11.27.30:632][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.11.04-11.27.30:683][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.11.04-11.27.31:089][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 405,984ms to complete.
+[2018.11.04-11.27.31:090][  0]LogFileHelpers: Loading map 'GarageMap' took 11.344
+[2018.11.04-11.27.31:279][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.04-11.27.31:311][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.04-11.27.31:339][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.04-11.27.31:355][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.04-11.27.31:384][  0]LogCollectionManager: Loaded 0 collections in 0.008357 seconds
+[2018.11.04-11.27.31:462][  0]LogFileCache: Scanning file cache for directory 'C:/Users/spole/Documents/Unreal Projects/FuturacingMobile/Saved/Collections/' took 0.01s
+[2018.11.04-11.27.31:462][  0]LogFileCache: Scanning file cache for directory 'C:/Users/spole/Documents/Unreal Projects/FuturacingMobile/Content/Developers/spole/Collections/' took 0.01s
+[2018.11.04-11.27.31:462][  0]LogFileCache: Scanning file cache for directory 'C:/Users/spole/Documents/Unreal Projects/FuturacingMobile/Content/Collections/' took 0.01s
+[2018.11.04-11.27.31:462][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2018.11.04-11.27.31:486][  0]LogContentBrowser: Native class hierarchy populated in 0.0230 seconds. Added 2572 classes and 603 folders.
+[2018.11.04-11.27.31:508][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2018.11.04-11.27.31:714][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2018.11.04-11.27.31:892][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0005 seconds. Added 1 classes and 2 folders.
+[2018.11.04-11.27.31:917][  0]LogSlate: Took 0.000414 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.11.04-11.27.31:924][  0]LogSlate: Took 0.000373 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.11.04-11.27.31:929][  0]LogSlate: Took 0.000383 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.11.04-11.27.32:092][  0]LogRenderer: Reallocating scene render targets to support 876x472 Format 9 NumSamples 1 (Frame:1).
+[2018.11.04-11.27.32:341][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2018.11.04-11.27.32:341][  0]LogLoad: (Engine Initialization) Total time: 37.30 seconds
+[2018.11.04-11.27.32:341][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.11.04-11.27.32:355][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.11.04-11.27.32:381][  0]LogContentStreaming: Texture pool size now 800 MB
+[2018.11.04-11.27.32:436][  0]LogRenderer: Reallocating scene render targets to support 876x484 Format 9 NumSamples 1 (Frame:2).
+[2018.11.04-11.27.32:506][  0]LogSlate: Took 0.000653 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.11.04-11.27.32:620][  3]LogAssetRegistry: Asset discovery search completed in 22.4953 seconds
+[2018.11.04-11.27.32:622][  3]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2018.11.04-11.27.32:623][  3]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000109 seconds (updated 0 objects)
+[2018.11.04-11.27.45:864][240]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.11.04-11.27.45:864][240]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.11.04-11.27.45:868][240]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.04-11.27.52:573][890]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.11.04-11.27.52:574][890]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.11.04-11.30.38:003][846]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.11.04-11.30.38:004][846]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.11.04-11.30.38:222][846]LogSlate: Took 0.000461 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.11.04-11.30.38:235][846]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/AllAssets/Levels/Garage/MenuBP/LevelBar.LevelBar
+[2018.11.04-11.30.39:393][846]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0012 seconds. Added 116 classes and 0 folders.
+[2018.11.04-11.30.41:793][846]LogSlate: Took 0.000463 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.11.04-11.32.09:629][910]BlueprintLog: New page: Compile LevelBar
+[2018.11.04-11.32.10:446][927]LogSavePackage: Moving '../../../../../../Users/spole/Documents/Unreal Projects/FuturacingMobile/Saved/LevelBar3BF0ABDC4010AFAEEBD541A4298CF120.tmp' to '../../../../../../Users/spole/Documents/Unreal Projects/FuturacingMobile/Content/AllAssets/Levels/Garage/MenuBP/LevelBar.uasset'
+[2018.11.04-11.36.44:833][464]LogInit: XAudio2 using 'Наушники (Устройство с поддержкой High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.11.04-11.38.23:816][162]LogAssetEditorManager: Opening Asset editor for Texture2D /Game/AllAssets/Levels/Garage/MenuBP/IconsMenu/GРесурс_12.GРесурс_12
+[2018.11.04-11.38.23:854][162]LogContentBrowser: Native class hierarchy updated for 'TextureEditor' in 0.0006 seconds. Added 1 classes and 2 folders.
+[2018.11.04-11.38.57:632][793]LogSavePackage: Moving '../../../../../../Users/spole/Documents/Unreal Projects/FuturacingMobile/Saved/GРесурс_12160028AD40020219246C9E8953B0A3D8.tmp' to '../../../../../../Users/spole/Documents/Unreal Projects/FuturacingMobile/Content/AllAssets/Levels/Garage/MenuBP/IconsMenu/GРесурс_12.uasset'
+[2018.11.04-11.39.05:260][283]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.11.04-11.39.05:319][283]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.11.04-11.39.05:321][283]LogPlayLevel: [PlayLevel] Compiling LevelBar before play...
+[2018.11.04-11.39.05:620][283]LogPlayLevel: PlayLevel: Blueprint regeneration took 301 ms (1 blueprints)
+[2018.11.04-11.39.05:634][283]PIE: New page: PIE session: GarageMap (5 нояб. 2018 г., 1:39:05)
+[2018.11.04-11.39.05:635][283]LogPlayLevel: Creating play world package: /Game/AllAssets/Levels/Garage/UEDPIE_0_GarageMap
+[2018.11.04-11.39.05:653][283]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018566s)
+[2018.11.04-11.39.05:655][283]LogAIModule: Creating AISystem for world GarageMap
+[2018.11.04-11.39.05:655][283]LogPlayLevel: PIE: World Init took: (0.001414s)
+[2018.11.04-11.39.05:655][283]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/AllAssets/Levels/Garage/GarageMap.GarageMap to /Game/AllAssets/Levels/Garage/UEDPIE_0_GarageMap.GarageMap (0.020297s)
+[2018.11.04-11.39.05:745][283]LogInit: XAudio2 using 'Наушники (Устройство с поддержкой High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.11.04-11.39.05:772][283]LogInit: FAudioDevice initialized.
+[2018.11.04-11.39.05:793][283]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.04-11.39.05:889][283]LogLoad: Game class is 'GameModeMenu_C'
+[2018.11.04-11.39.05:904][283]LogWorld: Bringing World /Game/AllAssets/Levels/Garage/UEDPIE_0_GarageMap.GarageMap up for play (max tick rate 0) at 2018.11.04-18.39.05
+[2018.11.04-11.39.05:906][283]LogWorld: Bringing up level for play took: 0.014787
+[2018.11.04-11.39.06:038][283]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2018.11.04-11.39.06:058][283]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0007 seconds. Added 10 classes and 0 folders.
+[2018.11.04-11.39.06:062][283]PIE: Warning: Attempting to move a fully simulated skeletal mesh VehicleMesh. Please use the Teleport flag
+[2018.11.04-11.39.06:084][283]PIE: Play in editor start time for /Game/AllAssets/Levels/Garage/UEDPIE_0_GarageMap 1,02
+[2018.11.04-11.39.06:086][283]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.06:099][283]LogRenderer: Reallocating scene render targets to support 1124x656 Format 9 NumSamples 1 (Frame:1).
+[2018.11.04-11.39.06:297][284]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.000391
+[2018.11.04-11.39.06:345][285]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.001868
+[2018.11.04-11.39.06:360][286]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.002897
+[2018.11.04-11.39.06:384][287]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.003151
+[2018.11.04-11.39.06:411][288]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.003745
+[2018.11.04-11.39.06:444][289]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.004216
+[2018.11.04-11.39.06:475][290]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.004577
+[2018.11.04-11.39.06:502][291]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.004664
+[2018.11.04-11.39.06:517][292]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.004505
+[2018.11.04-11.39.06:533][293]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.00428
+[2018.11.04-11.39.06:543][294]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.004172
+[2018.11.04-11.39.06:553][295]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.00403
+[2018.11.04-11.39.06:564][296]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.003922
+[2018.11.04-11.39.06:574][297]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.003808
+[2018.11.04-11.39.06:585][298]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.003675
+[2018.11.04-11.39.06:601][299]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.003544
+[2018.11.04-11.39.06:613][300]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.003369
+[2018.11.04-11.39.06:624][301]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.003152
+[2018.11.04-11.39.06:637][302]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.002979
+[2018.11.04-11.39.06:648][303]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.002789
+[2018.11.04-11.39.06:662][304]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.002596
+[2018.11.04-11.39.06:674][305]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.002389
+[2018.11.04-11.39.06:685][306]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.002174
+[2018.11.04-11.39.06:696][307]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.001995
+[2018.11.04-11.39.06:706][308]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.001812
+[2018.11.04-11.39.06:716][309]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.001639
+[2018.11.04-11.39.06:729][310]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.001484
+[2018.11.04-11.39.06:743][311]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.001304
+[2018.11.04-11.39.06:753][312]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.001098
+[2018.11.04-11.39.06:763][313]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.000933
+[2018.11.04-11.39.06:774][314]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.000792
+[2018.11.04-11.39.06:785][315]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.000648
+[2018.11.04-11.39.06:798][316]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.00051
+[2018.11.04-11.39.06:809][317]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.000366
+[2018.11.04-11.39.06:819][318]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.000233
+[2018.11.04-11.39.06:831][319]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.000119
+[2018.11.04-11.39.06:842][320]LogBlueprintUserMessages: [VehicleBP1_C_0] -0.000004
+[2018.11.04-11.39.06:855][321]LogBlueprintUserMessages: [VehicleBP1_C_0] -0.000119
+[2018.11.04-11.39.06:871][322]LogBlueprintUserMessages: [VehicleBP1_C_0] -0.000223
+[2018.11.04-11.39.06:882][323]LogBlueprintUserMessages: [VehicleBP1_C_0] -0.000338
+[2018.11.04-11.39.06:896][324]LogBlueprintUserMessages: [VehicleBP1_C_0] -0.000438
+[2018.11.04-11.39.06:905][325]LogBlueprintUserMessages: [VehicleBP1_C_0] -0.000516
+[2018.11.04-11.39.06:916][326]LogBlueprintUserMessages: [VehicleBP1_C_0] -0.000583
+[2018.11.04-11.39.06:929][327]LogBlueprintUserMessages: [VehicleBP1_C_0] -0.000635
+[2018.11.04-11.39.06:939][328]LogBlueprintUserMessages: [VehicleBP1_C_0] -0.000688
+[2018.11.04-11.39.06:948][329]LogBlueprintUserMessages: [VehicleBP1_C_0] -0.000737
+[2018.11.04-11.39.06:958][330]LogBlueprintUserMessages: [VehicleBP1_C_0] -0.000771
+[2018.11.04-11.39.06:968][331]LogBlueprintUserMessages: [VehicleBP1_C_0] -0.000799
+[2018.11.04-11.39.06:978][332]LogBlueprintUserMessages: [VehicleBP1_C_0] -0.000823
+[2018.11.04-11.39.06:989][333]LogBlueprintUserMessages: [VehicleBP1_C_0] -0.000844
+[2018.11.04-11.39.07:001][334]LogBlueprintUserMessages: [VehicleBP1_C_0] -0.000858
+[2018.11.04-11.39.07:011][335]LogBlueprintUserMessages: [VehicleBP1_C_0] -0.000867
+[2018.11.04-11.39.07:021][336]LogBlueprintUserMessages: [VehicleBP1_C_0] -0.000879
+[2018.11.04-11.39.07:031][337]LogBlueprintUserMessages: [VehicleBP1_C_0] -0.000883
+[2018.11.04-11.39.07:040][338]LogBlueprintUserMessages: [VehicleBP1_C_0] -0.000881
+[2018.11.04-11.39.07:051][339]LogBlueprintUserMessages: [VehicleBP1_C_0] -0.000879
+[2018.11.04-11.39.07:064][340]LogBlueprintUserMessages: [VehicleBP1_C_0] -0.00087
+[2018.11.04-11.39.07:074][341]LogBlueprintUserMessages: [VehicleBP1_C_0] -0.000849
+[2018.11.04-11.39.07:084][342]LogBlueprintUserMessages: [VehicleBP1_C_0] -0.000841
+[2018.11.04-11.39.07:094][343]LogBlueprintUserMessages: [VehicleBP1_C_0] -0.000828
+[2018.11.04-11.39.07:104][344]LogBlueprintUserMessages: [VehicleBP1_C_0] -0.000808
+[2018.11.04-11.39.07:115][345]LogBlueprintUserMessages: [VehicleBP1_C_0] -0.000788
+[2018.11.04-11.39.07:129][346]LogBlueprintUserMessages: [VehicleBP1_C_0] -0.000762
+[2018.11.04-11.39.07:139][347]LogBlueprintUserMessages: [VehicleBP1_C_0] -0.000722
+[2018.11.04-11.39.07:149][348]LogBlueprintUserMessages: [VehicleBP1_C_0] -0.000704
+[2018.11.04-11.39.07:158][349]LogBlueprintUserMessages: [VehicleBP1_C_0] -0.00068
+[2018.11.04-11.39.07:168][350]LogBlueprintUserMessages: [VehicleBP1_C_0] -0.000653
+[2018.11.04-11.39.07:178][351]LogBlueprintUserMessages: [VehicleBP1_C_0] -0.000624
+[2018.11.04-11.39.07:191][352]LogBlueprintUserMessages: [VehicleBP1_C_0] -0.000596
+[2018.11.04-11.39.07:202][353]LogBlueprintUserMessages: [VehicleBP1_C_0] -0.000556
+[2018.11.04-11.39.07:212][354]LogBlueprintUserMessages: [VehicleBP1_C_0] -0.000518
+[2018.11.04-11.39.07:222][355]LogBlueprintUserMessages: [VehicleBP1_C_0] -0.000493
+[2018.11.04-11.39.07:232][356]LogBlueprintUserMessages: [VehicleBP1_C_0] -0.000465
+[2018.11.04-11.39.07:242][357]LogBlueprintUserMessages: [VehicleBP1_C_0] -0.00043
+[2018.11.04-11.39.07:255][358]LogBlueprintUserMessages: [VehicleBP1_C_0] -0.000399
+[2018.11.04-11.39.07:267][359]LogBlueprintUserMessages: [VehicleBP1_C_0] -0.000361
+[2018.11.04-11.39.07:277][360]LogBlueprintUserMessages: [VehicleBP1_C_0] -0.00032
+[2018.11.04-11.39.07:287][361]LogBlueprintUserMessages: [VehicleBP1_C_0] -0.000297
+[2018.11.04-11.39.07:297][362]LogBlueprintUserMessages: [VehicleBP1_C_0] -0.000269
+[2018.11.04-11.39.07:307][363]LogBlueprintUserMessages: [VehicleBP1_C_0] -0.00024
+[2018.11.04-11.39.07:318][364]LogBlueprintUserMessages: [VehicleBP1_C_0] -0.000212
+[2018.11.04-11.39.07:331][365]LogBlueprintUserMessages: [VehicleBP1_C_0] -0.00018
+[2018.11.04-11.39.07:341][366]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.07:351][367]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.07:361][368]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.07:371][369]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.07:382][370]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.07:395][371]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.07:405][372]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.07:415][373]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.07:425][374]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.07:434][375]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.07:446][376]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.07:459][377]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.07:468][378]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.07:479][379]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.07:488][380]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.07:498][381]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.07:508][382]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.07:522][383]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.07:532][384]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.07:542][385]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.07:552][386]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.07:562][387]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.07:571][388]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.07:582][389]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.07:596][390]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.07:606][391]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.07:616][392]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.07:626][393]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.07:636][394]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.07:646][395]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.07:660][396]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.07:670][397]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.07:680][398]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.07:689][399]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.07:699][400]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.07:709][401]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.07:722][402]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.07:731][403]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.07:746][404]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.07:756][405]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.07:765][406]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.07:776][407]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.07:789][408]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.07:798][409]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.07:807][410]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.07:817][411]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.07:827][412]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.07:837][413]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.07:848][414]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.07:860][415]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.07:870][416]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.07:880][417]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.07:889][418]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.07:899][419]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.07:910][420]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.07:931][421]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.07:943][422]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.07:953][423]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.07:963][424]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.07:974][425]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.07:987][426]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.07:998][427]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.08:009][428]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.08:023][429]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.08:036][430]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.08:050][431]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.08:062][432]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.08:076][433]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.08:087][434]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.08:097][435]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.08:109][436]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.08:122][437]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.08:132][438]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.08:141][439]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.08:151][440]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.08:161][441]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.08:172][442]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.08:184][443]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.08:195][444]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.08:204][445]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.08:214][446]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.08:224][447]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.08:235][448]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.08:247][449]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.08:258][450]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.08:267][451]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.08:277][452]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.08:286][453]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.08:296][454]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.08:307][455]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.08:319][456]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.08:329][457]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.08:340][458]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.08:349][459]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.08:360][460]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.08:371][461]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.08:384][462]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.08:408][463]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.08:418][464]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.08:428][465]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.08:440][466]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.08:452][467]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.08:462][468]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.08:473][469]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.08:482][470]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.08:492][471]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.08:503][472]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.08:515][473]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.08:525][474]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.08:535][475]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.08:544][476]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.08:553][477]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.08:562][478]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.08:576][479]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.08:586][480]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.08:595][481]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.08:604][482]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.08:613][483]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.08:623][484]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.08:633][485]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.08:645][486]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.08:655][487]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.08:664][488]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.08:673][489]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.08:683][490]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.08:693][491]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.08:703][492]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.08:715][493]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.08:725][494]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.08:734][495]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.08:743][496]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.08:752][497]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.08:762][498]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.08:775][499]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.08:785][500]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.08:794][501]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.08:804][502]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.08:813][503]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.08:823][504]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.08:834][505]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.08:846][506]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.08:857][507]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.08:866][508]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.08:875][509]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.08:885][510]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.08:895][511]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.08:906][512]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.08:918][513]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.08:928][514]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.08:937][515]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.08:947][516]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.08:957][517]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.08:969][518]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.08:980][519]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.08:990][520]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.08:999][521]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.09:008][522]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.09:017][523]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.09:028][524]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.09:082][525]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.09:093][526]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.09:106][527]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.09:118][528]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.09:128][529]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.09:137][530]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.09:147][531]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.09:159][532]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.09:172][533]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.09:182][534]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.09:192][535]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.09:201][536]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.09:211][537]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.09:220][538]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.09:230][539]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.09:242][540]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.09:252][541]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.09:262][542]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.09:271][543]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.09:281][544]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.09:291][545]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.09:301][546]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.09:310][547]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.09:320][548]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.09:330][549]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.09:339][550]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.09:348][551]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.09:359][552]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.09:371][553]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.09:380][554]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.09:390][555]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.09:400][556]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.09:409][557]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.09:418][558]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.09:429][559]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.09:441][560]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.09:450][561]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.09:460][562]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.09:469][563]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.09:478][564]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.09:487][565]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.09:500][566]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.09:510][567]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.09:520][568]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.09:529][569]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.09:538][570]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.09:547][571]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.09:558][572]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.09:569][573]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.09:580][574]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.09:589][575]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.09:598][576]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.09:607][577]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.09:616][578]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.09:627][579]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.09:639][580]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.09:649][581]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.09:658][582]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.09:667][583]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.09:676][584]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.09:685][585]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.09:698][586]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.09:708][587]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.09:718][588]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.09:727][589]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.09:736][590]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.09:745][591]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.09:756][592]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.09:767][593]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.09:777][594]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.09:786][595]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.09:795][596]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.09:805][597]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.09:814][598]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.09:824][599]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.09:836][600]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.09:846][601]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.09:855][602]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.09:864][603]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.09:873][604]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.09:882][605]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.09:893][606]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.09:905][607]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.09:914][608]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.09:923][609]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.09:933][610]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.09:941][611]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.09:951][612]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.09:963][613]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.09:973][614]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.09:983][615]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.09:992][616]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.10:001][617]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.10:010][618]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.10:021][619]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.10:033][620]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.10:042][621]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.10:052][622]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.10:061][623]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.10:071][624]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.10:081][625]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.10:094][626]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.10:105][627]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.10:114][628]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.10:124][629]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.10:134][630]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.10:143][631]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.10:154][632]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.10:165][633]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.10:175][634]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.10:184][635]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.10:193][636]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.10:203][637]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.10:212][638]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.10:223][639]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.10:236][640]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.10:246][641]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.10:256][642]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.10:266][643]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.10:276][644]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.10:287][645]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.10:300][646]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.10:310][647]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.10:320][648]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.10:329][649]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.10:339][650]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.10:349][651]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.10:361][652]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.10:372][653]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.10:382][654]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.10:392][655]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.10:401][656]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.10:411][657]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.10:422][658]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.10:434][659]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.10:444][660]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.10:454][661]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.10:464][662]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.10:473][663]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.10:484][664]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.10:497][665]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.10:507][666]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.10:517][667]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.10:527][668]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.10:537][669]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.10:546][670]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.10:559][671]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.10:569][672]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.10:579][673]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.10:589][674]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.10:599][675]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.10:608][676]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.10:624][677]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.10:635][678]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.10:645][679]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.10:654][680]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.10:663][681]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.10:672][682]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.10:682][683]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.10:695][684]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.10:704][685]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.10:713][686]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.10:723][687]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.10:732][688]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.10:742][689]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.10:755][690]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.10:766][691]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.10:775][692]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.10:784][693]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.10:794][694]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.10:803][695]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.10:813][696]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.10:825][697]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.10:835][698]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.10:844][699]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.10:853][700]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.10:862][701]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.10:871][702]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.10:881][703]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.10:893][704]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.10:903][705]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.10:912][706]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.10:921][707]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.10:930][708]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.10:939][709]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.10:950][710]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.10:963][711]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.10:972][712]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.10:981][713]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.10:991][714]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.11:000][715]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.11:009][716]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.11:020][717]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.11:031][718]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.11:040][719]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.11:049][720]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.11:058][721]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.11:068][722]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.11:079][723]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.11:091][724]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.11:101][725]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.11:111][726]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.11:120][727]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.11:129][728]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.11:138][729]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.11:151][730]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.11:161][731]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.11:170][732]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.11:179][733]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.11:189][734]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.11:198][735]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.11:207][736]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.11:220][737]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.11:230][738]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.11:239][739]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.11:247][740]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.11:256][741]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.11:265][742]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.11:276][743]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.11:288][744]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.11:298][745]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.11:307][746]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.11:316][747]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.11:325][748]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.11:334][749]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.11:344][750]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.11:357][751]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.11:366][752]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.11:375][753]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.11:384][754]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.11:393][755]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.11:402][756]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.11:412][757]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.11:424][758]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.11:434][759]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.11:443][760]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.11:452][761]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.11:462][762]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.11:470][763]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.11:482][764]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.11:493][765]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.11:502][766]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.11:511][767]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.11:520][768]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.11:529][769]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.11:539][770]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.11:552][771]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.11:561][772]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.11:571][773]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.11:580][774]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.11:589][775]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.11:598][776]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.11:608][777]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.11:619][778]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.11:629][779]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.11:639][780]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.11:648][781]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.11:657][782]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.11:666][783]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.11:677][784]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.11:690][785]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.11:700][786]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.11:710][787]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.11:720][788]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.11:729][789]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.11:739][790]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.11:753][791]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.11:762][792]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.11:772][793]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.11:782][794]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.11:792][795]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.11:801][796]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.11:814][797]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.11:825][798]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.11:834][799]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.11:844][800]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.11:854][801]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.11:863][802]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.11:874][803]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.11:886][804]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.11:897][805]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.11:906][806]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.11:917][807]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.11:927][808]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.11:937][809]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.11:951][810]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.11:961][811]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.11:971][812]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.11:981][813]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.11:991][814]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.12:002][815]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.12:015][816]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.12:025][817]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.12:034][818]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.12:043][819]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.12:053][820]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.12:062][821]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.12:074][822]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.12:086][823]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.12:096][824]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.12:105][825]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.12:115][826]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.12:124][827]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.12:134][828]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.12:147][829]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.12:157][830]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.12:166][831]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.12:175][832]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.12:184][833]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.12:193][834]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.12:202][835]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.12:215][836]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.12:224][837]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.12:233][838]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.12:242][839]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.12:252][840]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.12:261][841]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.12:271][842]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.12:284][843]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.12:294][844]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.12:304][845]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.12:313][846]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.12:323][847]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.12:333][848]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.12:346][849]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.12:355][850]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.12:364][851]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.12:373][852]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.12:382][853]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.12:391][854]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.12:401][855]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.12:413][856]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.12:423][857]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.12:432][858]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.12:441][859]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.12:450][860]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.12:459][861]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.12:470][862]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.12:482][863]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.12:492][864]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.12:502][865]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.12:512][866]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.12:521][867]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.12:531][868]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.12:544][869]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.12:554][870]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.12:564][871]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.12:573][872]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.12:583][873]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.12:592][874]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.12:603][875]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.12:616][876]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.12:625][877]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.12:634][878]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.12:643][879]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.12:652][880]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.12:662][881]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.12:674][882]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.12:685][883]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.12:695][884]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.12:705][885]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.12:715][886]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.12:725][887]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.12:738][888]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.12:749][889]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.12:760][890]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.12:769][891]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.12:779][892]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.12:788][893]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.12:800][894]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.12:812][895]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.12:822][896]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.12:832][897]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.12:841][898]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.12:851][899]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.12:862][900]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.12:874][901]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.12:884][902]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.12:894][903]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.12:904][904]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.12:913][905]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.12:923][906]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.12:936][907]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.12:947][908]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.12:957][909]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.12:966][910]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.12:977][911]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.12:985][912]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.12:997][913]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.13:009][914]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.13:019][915]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.13:028][916]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.13:039][917]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.13:048][918]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.13:059][919]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.13:073][920]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.13:083][921]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.13:093][922]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.13:103][923]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.13:113][924]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.13:124][925]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.13:137][926]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.13:147][927]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.13:157][928]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.13:166][929]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.13:177][930]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.13:251][931]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.13:263][932]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.13:276][933]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.13:286][934]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.13:296][935]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.13:306][936]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.13:315][937]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.13:326][938]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.13:339][939]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.13:348][940]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.13:358][941]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.13:367][942]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.13:376][943]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.13:386][944]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.13:398][945]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.13:408][946]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.13:417][947]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.13:426][948]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.13:435][949]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.13:444][950]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.13:454][951]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.13:465][952]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.13:476][953]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.13:485][954]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.13:494][955]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.13:503][956]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.13:512][957]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.13:521][958]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.13:533][959]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.13:543][960]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.13:552][961]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.13:561][962]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.13:570][963]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.13:579][964]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.13:590][965]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.13:601][966]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.13:611][967]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.13:620][968]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.13:629][969]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.13:638][970]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.13:647][971]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.13:657][972]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.13:669][973]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.13:680][974]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.13:689][975]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.13:698][976]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.13:708][977]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.13:718][978]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.13:732][979]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.13:742][980]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.13:751][981]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.13:760][982]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.13:769][983]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.13:778][984]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.13:788][985]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.13:800][986]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.13:810][987]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.13:820][988]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.13:829][989]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.13:839][990]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.13:849][991]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.13:861][992]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.13:872][993]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.13:881][994]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.13:890][995]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.13:899][996]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.13:908][997]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.13:918][998]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.13:930][999]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.13:940][  0]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.13:949][  1]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.13:958][  2]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.13:967][  3]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.13:977][  4]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.13:986][  5]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.13:999][  6]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.14:024][  7]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.14:033][  8]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.14:043][  9]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.14:053][ 10]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.14:064][ 11]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.14:077][ 12]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.14:086][ 13]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.14:095][ 14]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.14:105][ 15]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.14:115][ 16]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.14:126][ 17]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.14:137][ 18]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.14:146][ 19]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.14:155][ 20]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.14:164][ 21]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.14:173][ 22]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.14:183][ 23]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.14:195][ 24]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.14:205][ 25]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.14:215][ 26]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.14:223][ 27]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.14:232][ 28]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.14:241][ 29]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.14:251][ 30]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.14:264][ 31]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.14:274][ 32]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.14:283][ 33]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.14:292][ 34]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.14:301][ 35]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.14:311][ 36]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.14:325][ 37]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.14:335][ 38]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.14:350][ 39]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.14:359][ 40]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.14:368][ 41]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.14:378][ 42]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.14:390][ 43]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.14:400][ 44]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.14:410][ 45]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.14:419][ 46]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.14:458][ 47]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.14:469][ 48]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.14:478][ 49]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.14:487][ 50]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.14:496][ 51]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.14:505][ 52]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.14:516][ 53]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.14:527][ 54]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.14:537][ 55]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.14:546][ 56]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.14:555][ 57]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.14:564][ 58]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.14:574][ 59]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.14:593][ 60]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.14:604][ 61]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.14:613][ 62]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.14:623][ 63]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.14:633][ 64]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.14:643][ 65]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.14:655][ 66]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.14:664][ 67]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.14:674][ 68]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.14:683][ 69]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.14:692][ 70]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.14:701][ 71]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.14:711][ 72]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.14:722][ 73]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.14:735][ 74]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.14:744][ 75]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.14:753][ 76]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.14:762][ 77]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.14:772][ 78]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.14:783][ 79]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.14:794][ 80]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.14:803][ 81]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.14:812][ 82]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.14:821][ 83]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.14:830][ 84]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.14:840][ 85]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.14:850][ 86]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.14:859][ 87]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.14:868][ 88]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.14:877][ 89]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.14:886][ 90]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.14:895][ 91]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.14:905][ 92]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.14:917][ 93]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.14:926][ 94]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.14:935][ 95]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.14:945][ 96]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.14:953][ 97]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.14:962][ 98]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.14:972][ 99]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.14:984][100]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.14:994][101]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.15:003][102]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.15:012][103]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.15:021][104]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.15:030][105]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.15:040][106]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.15:052][107]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.15:061][108]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.15:071][109]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.15:080][110]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.15:089][111]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.15:098][112]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.15:108][113]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.15:120][114]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.15:130][115]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.15:139][116]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.15:148][117]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.15:157][118]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.15:166][119]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.15:178][120]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.15:188][121]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.15:197][122]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.15:206][123]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.15:215][124]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.15:224][125]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.15:233][126]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.15:245][127]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.15:256][128]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.15:265][129]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.15:274][130]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.15:283][131]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.15:292][132]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.15:302][133]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.15:314][134]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.15:323][135]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.15:333][136]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.15:342][137]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.15:350][138]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.15:360][139]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.15:370][140]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.15:381][141]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.15:391][142]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.15:400][143]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.15:410][144]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.15:419][145]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.15:428][146]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.15:438][147]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.15:450][148]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.15:459][149]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.15:469][150]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.15:478][151]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.15:487][152]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.15:495][153]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.15:506][154]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.15:518][155]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.15:527][156]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.15:536][157]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.15:545][158]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.15:554][159]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.15:563][160]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.15:574][161]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.15:585][162]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.15:597][163]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.15:607][164]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.15:616][165]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.15:625][166]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.15:635][167]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.15:646][168]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.15:656][169]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.15:665][170]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.15:674][171]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.15:683][172]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.15:692][173]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.15:702][174]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.15:742][175]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.15:752][176]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.15:788][177]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.15:799][178]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.15:808][179]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.15:817][180]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.15:826][181]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.15:838][182]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.15:848][183]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.15:858][184]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.15:868][185]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.15:877][186]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.15:886][187]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.15:896][188]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.15:908][189]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.15:918][190]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.15:927][191]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.15:937][192]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.15:946][193]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.15:955][194]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.15:966][195]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.15:978][196]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.15:988][197]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.15:998][198]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.16:007][199]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.16:017][200]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.16:027][201]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.16:040][202]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.16:050][203]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.16:060][204]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.16:070][205]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.16:081][206]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.16:091][207]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.16:104][208]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.16:115][209]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.16:125][210]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.16:135][211]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.16:144][212]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.16:153][213]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.16:164][214]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.16:176][215]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.16:186][216]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.16:196][217]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.16:206][218]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.16:215][219]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.16:226][220]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.16:239][221]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.16:249][222]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.16:259][223]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.16:269][224]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.16:279][225]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.16:288][226]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.16:299][227]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.16:309][228]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.16:319][229]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.16:329][230]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.16:338][231]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.16:347][232]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.16:357][233]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.16:370][234]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.16:380][235]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.16:389][236]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.16:399][237]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.16:409][238]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.16:418][239]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.16:429][240]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.16:442][241]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.16:452][242]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.16:461][243]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.16:470][244]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.16:479][245]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.16:498][246]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.16:510][247]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.16:519][248]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.16:529][249]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.16:538][250]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.16:547][251]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.16:557][252]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.16:568][253]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.16:579][254]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.16:588][255]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.16:597][256]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.16:606][257]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.16:615][258]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.16:625][259]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.16:637][260]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.16:648][261]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.16:657][262]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.16:667][263]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.16:676][264]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.16:687][265]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.16:699][266]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.16:709][267]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.16:719][268]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.16:729][269]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.16:738][270]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.16:747][271]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.16:757][272]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.16:771][273]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.16:780][274]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.16:790][275]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.16:799][276]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.16:809][277]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.16:819][278]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.16:831][279]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.16:841][280]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.16:850][281]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.16:859][282]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.16:869][283]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.16:878][284]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.16:888][285]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.16:900][286]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.16:910][287]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.16:920][288]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.16:930][289]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.16:939][290]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.16:950][291]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.16:962][292]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.16:972][293]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.16:982][294]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.16:991][295]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.17:001][296]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.17:010][297]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.17:020][298]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.17:033][299]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.17:043][300]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.17:052][301]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.17:061][302]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.17:071][303]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.17:171][304]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.17:185][305]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.17:195][306]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.17:205][307]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.17:214][308]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.17:228][309]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.17:239][310]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.17:248][311]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.17:258][312]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.17:267][313]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.17:276][314]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.17:286][315]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.17:298][316]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.17:309][317]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.17:318][318]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.17:327][319]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.17:337][320]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.17:346][321]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.17:357][322]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.17:368][323]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.17:378][324]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.17:387][325]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.17:397][326]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.17:406][327]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.17:416][328]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.17:428][329]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.17:438][330]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.17:447][331]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.17:456][332]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.17:465][333]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.17:474][334]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.17:484][335]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.17:497][336]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.17:506][337]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.17:515][338]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.17:524][339]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.17:534][340]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.17:543][341]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.17:555][342]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.17:567][343]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.17:576][344]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.17:586][345]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.17:595][346]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.17:605][347]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.17:616][348]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.17:629][349]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.17:639][350]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.17:648][351]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.17:658][352]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.17:668][353]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.17:678][354]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.17:691][355]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.17:703][356]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.17:713][357]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.17:722][358]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.17:739][359]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.17:750][360]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.17:763][361]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.17:773][362]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.17:782][363]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.17:792][364]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.17:802][365]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.17:812][366]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.17:824][367]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.17:834][368]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.17:844][369]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.17:853][370]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.17:863][371]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.17:873][372]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.17:883][373]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.17:896][374]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.17:906][375]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.17:915][376]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.17:925][377]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.17:934][378]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.17:945][379]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.17:958][380]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.17:968][381]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.17:977][382]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.17:986][383]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.17:996][384]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.18:006][385]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.18:019][386]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.18:029][387]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.18:038][388]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.18:047][389]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.18:056][390]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.18:065][391]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.18:077][392]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.18:089][393]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.18:099][394]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.18:109][395]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.18:118][396]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.18:127][397]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.18:136][398]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.18:147][399]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.18:159][400]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.18:168][401]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.18:177][402]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.18:186][403]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.18:195][404]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.18:204][405]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.18:217][406]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.18:227][407]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.18:236][408]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.18:245][409]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.18:254][410]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.18:263][411]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.18:273][412]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.18:285][413]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.18:295][414]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.18:304][415]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.18:313][416]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.18:322][417]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.18:331][418]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.18:341][419]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.18:354][420]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.18:364][421]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.18:374][422]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.18:384][423]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.18:393][424]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.18:404][425]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.18:415][426]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.18:426][427]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.18:436][428]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.18:445][429]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.18:454][430]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.18:493][431]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.18:504][432]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.18:513][433]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.18:522][434]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.18:531][435]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.18:543][436]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.18:554][437]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.18:564][438]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.18:573][439]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.18:582][440]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.18:591][441]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.18:600][442]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.18:613][443]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.18:622][444]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.18:631][445]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.18:641][446]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.18:649][447]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.18:659][448]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.18:669][449]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.18:681][450]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.18:691][451]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.18:701][452]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.18:711][453]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.18:721][454]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.18:731][455]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.18:744][456]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.18:755][457]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.18:765][458]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.18:774][459]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.18:783][460]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.18:792][461]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.18:802][462]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.18:814][463]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.18:824][464]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.18:833][465]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.18:841][466]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.18:851][467]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.18:861][468]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.18:873][469]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.18:885][470]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.18:895][471]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.18:905][472]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.18:915][473]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.18:925][474]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.18:935][475]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.18:947][476]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.18:958][477]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.18:967][478]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.18:977][479]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.18:986][480]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.18:995][481]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.19:008][482]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.19:019][483]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.19:029][484]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.19:038][485]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.19:048][486]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.19:058][487]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.19:069][488]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.19:081][489]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.19:091][490]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.19:101][491]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.19:111][492]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.19:121][493]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.19:131][494]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.19:144][495]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.19:154][496]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.19:164][497]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.19:173][498]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.19:181][499]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.19:191][500]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.19:200][501]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.19:213][502]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.19:223][503]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.19:232][504]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.19:241][505]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.19:251][506]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.19:261][507]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.19:272][508]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.19:283][509]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.19:293][510]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.19:302][511]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.19:312][512]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.19:322][513]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.19:332][514]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.19:345][515]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.19:355][516]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.19:364][517]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.19:374][518]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.19:383][519]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.19:394][520]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.19:406][521]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.19:416][522]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.19:426][523]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.19:443][524]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.19:454][525]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.19:466][526]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.19:477][527]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.19:488][528]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.19:497][529]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.19:507][530]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.19:516][531]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.19:527][532]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.19:539][533]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.19:548][534]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.19:558][535]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.19:567][536]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.19:576][537]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.19:585][538]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.19:596][539]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.19:608][540]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.19:639][541]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.19:649][542]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.19:660][543]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.19:672][544]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.19:682][545]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.19:692][546]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.19:702][547]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.19:711][548]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.19:720][549]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.19:732][550]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.19:743][551]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.19:753][552]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.19:762][553]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.19:771][554]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.19:780][555]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.19:790][556]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.19:802][557]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.19:833][558]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.19:843][559]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.19:854][560]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.19:868][561]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.19:879][562]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.19:889][563]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.19:898][564]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.19:908][565]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.19:917][566]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.19:929][567]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.19:938][568]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.19:948][569]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.19:957][570]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.19:966][571]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.19:975][572]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.19:984][573]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.19:997][574]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.20:007][575]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.20:017][576]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.20:026][577]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.20:035][578]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.20:044][579]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.20:055][580]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.20:067][581]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.20:077][582]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.20:086][583]LogBlueprintUserMessages: [VehicleBP1_C_0] 0.0
+[2018.11.04-11.39.20:096][584]PIE: Warning: Attempting to move a fully simulated skeletal mesh VehicleMesh. Please use the Teleport flag
+[2018.11.04-11.39.20:102][584]LogBlueprintUserMessages: [VehicleBP1_C_1] 0.0
+[2018.11.04-11.39.20:113][585]LogBlueprintUserMessages: [VehicleBP1_C_1] 0.000437
+[2018.11.04-11.39.20:124][586]LogBlueprintUserMessages: [VehicleBP1_C_1] 0.0012
+[2018.11.04-11.39.20:137][587]LogBlueprintUserMessages: [VehicleBP1_C_1] 0.001564
+[2018.11.04-11.39.20:146][588]LogBlueprintUserMessages: [VehicleBP1_C_1] 0.00205
+[2018.11.04-11.39.20:156][589]LogBlueprintUserMessages: [VehicleBP1_C_1] 0.00235
+[2018.11.04-11.39.20:166][590]LogBlueprintUserMessages: [VehicleBP1_C_1] 0.002657
+[2018.11.04-11.39.20:175][591]LogBlueprintUserMessages: [VehicleBP1_C_1] 0.002916
+[2018.11.04-11.39.20:185][592]LogBlueprintUserMessages: [VehicleBP1_C_1] 0.003168
+[2018.11.04-11.39.20:198][593]LogBlueprintUserMessages: [VehicleBP1_C_1] 0.003426
+[2018.11.04-11.39.20:208][594]LogBlueprintUserMessages: [VehicleBP1_C_1] 0.003721
+[2018.11.04-11.39.20:218][595]LogBlueprintUserMessages: [VehicleBP1_C_1] 0.003886
+[2018.11.04-11.39.20:228][596]LogBlueprintUserMessages: [VehicleBP1_C_1] 0.004064
+[2018.11.04-11.39.20:238][597]LogBlueprintUserMessages: [VehicleBP1_C_1] 0.004205
+[2018.11.04-11.39.20:248][598]LogBlueprintUserMessages: [VehicleBP1_C_1] 0.004334
+[2018.11.04-11.39.20:261][599]LogBlueprintUserMessages: [VehicleBP1_C_1] 0.004437
+[2018.11.04-11.39.20:272][600]LogBlueprintUserMessages: [VehicleBP1_C_1] 0.004573
+[2018.11.04-11.39.20:282][601]LogBlueprintUserMessages: [VehicleBP1_C_1] 0.004626
+[2018.11.04-11.39.20:292][602]LogBlueprintUserMessages: [VehicleBP1_C_1] 0.004653
+[2018.11.04-11.39.20:301][603]LogBlueprintUserMessages: [VehicleBP1_C_1] 0.004673
+[2018.11.04-11.39.20:311][604]LogBlueprintUserMessages: [VehicleBP1_C_1] 0.004673
+[2018.11.04-11.39.20:323][605]LogBlueprintUserMessages: [VehicleBP1_C_1] 0.004662
+[2018.11.04-11.39.20:335][606]LogBlueprintUserMessages: [VehicleBP1_C_1] 0.004636
+[2018.11.04-11.39.20:345][607]LogBlueprintUserMessages: [VehicleBP1_C_1] 0.004586
+[2018.11.04-11.39.20:355][608]LogBlueprintUserMessages: [VehicleBP1_C_1] 0.004496
+[2018.11.04-11.39.20:365][609]LogBlueprintUserMessages: [VehicleBP1_C_1] 0.004411
+[2018.11.04-11.39.20:375][610]LogBlueprintUserMessages: [VehicleBP1_C_1] 0.00431
+[2018.11.04-11.39.20:386][611]LogBlueprintUserMessages: [VehicleBP1_C_1] 0.004206
+[2018.11.04-11.39.20:399][612]LogBlueprintUserMessages: [VehicleBP1_C_1] 0.004085
+[2018.11.04-11.39.20:409][613]LogBlueprintUserMessages: [VehicleBP1_C_1] 0.003932
+[2018.11.04-11.39.20:419][614]LogBlueprintUserMessages: [VehicleBP1_C_1] 0.00376
+[2018.11.04-11.39.20:429][615]LogBlueprintUserMessages: [VehicleBP1_C_1] 0.003608
+[2018.11.04-11.39.20:439][616]LogBlueprintUserMessages: [VehicleBP1_C_1] 0.003454
+[2018.11.04-11.39.20:449][617]LogBlueprintUserMessages: [VehicleBP1_C_1] 0.003297
+[2018.11.04-11.39.20:462][618]LogBlueprintUserMessages: [VehicleBP1_C_1] 0.003127
+[2018.11.04-11.39.20:472][619]LogBlueprintUserMessages: [VehicleBP1_C_1] 0.002935
+[2018.11.04-11.39.20:482][620]LogBlueprintUserMessages: [VehicleBP1_C_1] 0.002737
+[2018.11.04-11.39.20:492][621]LogBlueprintUserMessages: [VehicleBP1_C_1] 0.002552
+[2018.11.04-11.39.20:502][622]LogBlueprintUserMessages: [VehicleBP1_C_1] 0.002375
+[2018.11.04-11.39.20:512][623]LogBlueprintUserMessages: [VehicleBP1_C_1] 0.0022
+[2018.11.04-11.39.20:523][624]LogBlueprintUserMessages: [VehicleBP1_C_1] 0.002025
+[2018.11.04-11.39.20:534][625]LogBlueprintUserMessages: [VehicleBP1_C_1] 0.001838
+[2018.11.04-11.39.20:544][626]LogBlueprintUserMessages: [VehicleBP1_C_1] 0.001645
+[2018.11.04-11.39.20:554][627]LogBlueprintUserMessages: [VehicleBP1_C_1] 0.001467
+[2018.11.04-11.39.20:564][628]LogBlueprintUserMessages: [VehicleBP1_C_1] 0.0013
+[2018.11.04-11.39.20:574][629]LogBlueprintUserMessages: [VehicleBP1_C_1] 0.001145
+[2018.11.04-11.39.20:585][630]LogBlueprintUserMessages: [VehicleBP1_C_1] 0.000991
+[2018.11.04-11.39.20:597][631]LogBlueprintUserMessages: [VehicleBP1_C_1] 0.000829
+[2018.11.04-11.39.20:608][632]LogBlueprintUserMessages: [VehicleBP1_C_1] 0.000656
+[2018.11.04-11.39.20:618][633]LogBlueprintUserMessages: [VehicleBP1_C_1] 0.000505
+[2018.11.04-11.39.20:628][634]LogBlueprintUserMessages: [VehicleBP1_C_1] 0.000365
+[2018.11.04-11.39.20:638][635]LogBlueprintUserMessages: [VehicleBP1_C_1] 0.00024
+[2018.11.04-11.39.20:649][636]LogBlueprintUserMessages: [VehicleBP1_C_1] 0.000125
+[2018.11.04-11.39.20:661][637]LogBlueprintUserMessages: [VehicleBP1_C_1] 0.000008
+[2018.11.04-11.39.20:671][638]LogBlueprintUserMessages: [VehicleBP1_C_1] -0.000118
+[2018.11.04-11.39.20:682][639]LogBlueprintUserMessages: [VehicleBP1_C_1] -0.000225
+[2018.11.04-11.39.20:692][640]LogBlueprintUserMessages: [VehicleBP1_C_1] -0.000321
+[2018.11.04-11.39.20:702][641]LogBlueprintUserMessages: [VehicleBP1_C_1] -0.000408
+[2018.11.04-11.39.20:714][642]LogBlueprintUserMessages: [VehicleBP1_C_1] -0.000485
+[2018.11.04-11.39.20:726][643]LogBlueprintUserMessages: [VehicleBP1_C_1] -0.000561
+[2018.11.04-11.39.20:736][644]LogBlueprintUserMessages: [VehicleBP1_C_1] -0.000637
+[2018.11.04-11.39.20:746][645]LogBlueprintUserMessages: [VehicleBP1_C_1] -0.0007
+[2018.11.04-11.39.20:755][646]LogBlueprintUserMessages: [VehicleBP1_C_1] -0.000749
+[2018.11.04-11.39.20:764][647]LogBlueprintUserMessages: [VehicleBP1_C_1] -0.000792
+[2018.11.04-11.39.20:774][648]LogBlueprintUserMessages: [VehicleBP1_C_1] -0.000828
+[2018.11.04-11.39.20:786][649]LogBlueprintUserMessages: [VehicleBP1_C_1] -0.000859
+[2018.11.04-11.39.20:797][650]LogBlueprintUserMessages: [VehicleBP1_C_1] -0.000886
+[2018.11.04-11.39.20:807][651]LogBlueprintUserMessages: [VehicleBP1_C_1] -0.000912
+[2018.11.04-11.39.20:817][652]LogBlueprintUserMessages: [VehicleBP1_C_1] -0.000931
+[2018.11.04-11.39.20:826][653]LogBlueprintUserMessages: [VehicleBP1_C_1] -0.000943
+[2018.11.04-11.39.20:836][654]LogBlueprintUserMessages: [VehicleBP1_C_1] -0.000951
+[2018.11.04-11.39.20:847][655]LogBlueprintUserMessages: [VehicleBP1_C_1] -0.000955
+[2018.11.04-11.39.20:860][656]LogBlueprintUserMessages: [VehicleBP1_C_1] -0.000952
+[2018.11.04-11.39.20:870][657]LogBlueprintUserMessages: [VehicleBP1_C_1] -0.000942
+[2018.11.04-11.39.20:880][658]LogBlueprintUserMessages: [VehicleBP1_C_1] -0.000941
+[2018.11.04-11.39.20:890][659]LogBlueprintUserMessages: [VehicleBP1_C_1] -0.000929
+[2018.11.04-11.39.20:899][660]LogBlueprintUserMessages: [VehicleBP1_C_1] -0.000915
+[2018.11.04-11.39.20:911][661]LogBlueprintUserMessages: [VehicleBP1_C_1] -0.000898
+[2018.11.04-11.39.20:924][662]LogBlueprintUserMessages: [VehicleBP1_C_1] -0.000876
+[2018.11.04-11.39.20:934][663]LogBlueprintUserMessages: [VehicleBP1_C_1] -0.000836
+[2018.11.04-11.39.20:945][664]LogBlueprintUserMessages: [VehicleBP1_C_1] -0.000823
+[2018.11.04-11.39.20:954][665]LogBlueprintUserMessages: [VehicleBP1_C_1] -0.000796
+[2018.11.04-11.39.20:964][666]LogBlueprintUserMessages: [VehicleBP1_C_1] -0.000769
+[2018.11.04-11.39.20:975][667]LogBlueprintUserMessages: [VehicleBP1_C_1] -0.000742
+[2018.11.04-11.39.20:988][668]LogBlueprintUserMessages: [VehicleBP1_C_1] -0.000712
+[2018.11.04-11.39.20:998][669]LogBlueprintUserMessages: [VehicleBP1_C_1] -0.000656
+[2018.11.04-11.39.21:008][670]LogBlueprintUserMessages: [VehicleBP1_C_1] -0.000636
+[2018.11.04-11.39.21:018][671]LogBlueprintUserMessages: [VehicleBP1_C_1] -0.000603
+[2018.11.04-11.39.21:027][672]LogBlueprintUserMessages: [VehicleBP1_C_1] -0.000573
+[2018.11.04-11.39.21:037][673]LogBlueprintUserMessages: [VehicleBP1_C_1] -0.000542
+[2018.11.04-11.39.21:047][674]LogBlueprintUserMessages: [VehicleBP1_C_1] -0.00051
+[2018.11.04-11.39.21:060][675]LogBlueprintUserMessages: [VehicleBP1_C_1] -0.000474
+[2018.11.04-11.39.21:071][676]LogBlueprintUserMessages: [VehicleBP1_C_1] -0.000424
+[2018.11.04-11.39.21:081][677]LogBlueprintUserMessages: [VehicleBP1_C_1] -0.000396
+[2018.11.04-11.39.21:092][678]LogBlueprintUserMessages: [VehicleBP1_C_1] -0.000363
+[2018.11.04-11.39.21:102][679]LogBlueprintUserMessages: [VehicleBP1_C_1] -0.000331
+[2018.11.04-11.39.21:114][680]LogBlueprintUserMessages: [VehicleBP1_C_1] -0.0003
+[2018.11.04-11.39.21:127][681]LogBlueprintUserMessages: [VehicleBP1_C_1] -0.000255
+[2018.11.04-11.39.21:137][682]LogBlueprintUserMessages: [VehicleBP1_C_1] -0.000214
+[2018.11.04-11.39.21:147][683]LogBlueprintUserMessages: [VehicleBP1_C_1] -0.000195
+[2018.11.04-11.39.21:157][684]LogBlueprintUserMessages: [VehicleBP1_C_1] -0.000169
+[2018.11.04-11.39.21:167][685]LogBlueprintUserMessages: [VehicleBP1_C_1] -0.000143
+[2018.11.04-11.39.21:178][686]LogBlueprintUserMessages: [VehicleBP1_C_1] -0.00012
+[2018.11.04-11.39.21:190][687]LogBlueprintUserMessages: [VehicleBP1_C_1] 0.0
+[2018.11.04-11.39.21:232][688]LogBlueprintUserMessages: [VehicleBP1_C_1] 0.0
+[2018.11.04-11.39.21:242][689]LogBlueprintUserMessages: [VehicleBP1_C_1] 0.0
+[2018.11.04-11.39.21:254][690]LogBlueprintUserMessages: [VehicleBP1_C_1] 0.0
+[2018.11.04-11.39.21:264][691]LogBlueprintUserMessages: [VehicleBP1_C_1] 0.0
+[2018.11.04-11.39.21:274][692]LogBlueprintUserMessages: [VehicleBP1_C_1] 0.0
+[2018.11.04-11.39.21:283][693]LogBlueprintUserMessages: [VehicleBP1_C_1] 0.0
+[2018.11.04-11.39.21:292][694]LogBlueprintUserMessages: [VehicleBP1_C_1] 0.0
+[2018.11.04-11.39.21:302][695]LogBlueprintUserMessages: [VehicleBP1_C_1] 0.0
+[2018.11.04-11.39.21:313][696]LogBlueprintUserMessages: [VehicleBP1_C_1] 0.0
+[2018.11.04-11.39.21:325][697]LogBlueprintUserMessages: [VehicleBP1_C_1] 0.0
+[2018.11.04-11.39.21:335][698]LogBlueprintUserMessages: [VehicleBP1_C_1] 0.0
+[2018.11.04-11.39.21:344][699]LogBlueprintUserMessages: [VehicleBP1_C_1] 0.0
+[2018.11.04-11.39.21:354][700]LogBlueprintUserMessages: [VehicleBP1_C_1] 0.0
+[2018.11.04-11.39.21:363][701]LogBlueprintUserMessages: [VehicleBP1_C_1] 0.0
+[2018.11.04-11.39.21:373][702]LogBlueprintUserMessages: [VehicleBP1_C_1] 0.0
+[2018.11.04-11.39.21:384][703]LogBlueprintUserMessages: [VehicleBP1_C_1] 0.0
+[2018.11.04-11.39.21:395][704]LogBlueprintUserMessages: [VehicleBP1_C_1] 0.0
+[2018.11.04-11.39.21:405][705]PIE: Warning: Attempting to move a fully simulated skeletal mesh VehicleMesh. Please use the Teleport flag
+[2018.11.04-11.39.21:411][705]LogBlueprintUserMessages: [AllCarClass_C_0] 0.0
+[2018.11.04-11.39.21:421][706]LogBlueprintUserMessages: [AllCarClass_C_0] -0.006757
+[2018.11.04-11.39.21:431][707]LogBlueprintUserMessages: [AllCarClass_C_0] 0.004012
+[2018.11.04-11.39.21:442][708]LogBlueprintUserMessages: [AllCarClass_C_0] 0.005053
+[2018.11.04-11.39.21:455][709]LogBlueprintUserMessages: [AllCarClass_C_0] 0.006146
+[2018.11.04-11.39.21:465][710]LogBlueprintUserMessages: [AllCarClass_C_0] 0.00735
+[2018.11.04-11.39.21:475][711]LogBlueprintUserMessages: [AllCarClass_C_0] 0.007974
+[2018.11.04-11.39.21:484][712]LogBlueprintUserMessages: [AllCarClass_C_0] 0.008633
+[2018.11.04-11.39.21:494][713]LogBlueprintUserMessages: [AllCarClass_C_0] 0.009148
+[2018.11.04-11.39.21:505][714]LogBlueprintUserMessages: [AllCarClass_C_0] 0.009593
+[2018.11.04-11.39.21:518][715]LogBlueprintUserMessages: [AllCarClass_C_0] 0.009974
+[2018.11.04-11.39.21:527][716]LogBlueprintUserMessages: [AllCarClass_C_0] 0.010391
+[2018.11.04-11.39.21:537][717]LogBlueprintUserMessages: [AllCarClass_C_0] 0.010475
+[2018.11.04-11.39.21:547][718]LogBlueprintUserMessages: [AllCarClass_C_0] 0.010576
+[2018.11.04-11.39.21:557][719]LogBlueprintUserMessages: [AllCarClass_C_0] 0.010614
+[2018.11.04-11.39.21:566][720]LogBlueprintUserMessages: [AllCarClass_C_0] 0.010596
+[2018.11.04-11.39.21:578][721]LogBlueprintUserMessages: [AllCarClass_C_0] 0.010521
+[2018.11.04-11.39.21:591][722]LogBlueprintUserMessages: [AllCarClass_C_0] 0.010405
+[2018.11.04-11.39.21:601][723]LogBlueprintUserMessages: [AllCarClass_C_0] 0.01021
+[2018.11.04-11.39.21:611][724]LogBlueprintUserMessages: [AllCarClass_C_0] 0.009931
+[2018.11.04-11.39.21:621][725]LogBlueprintUserMessages: [AllCarClass_C_0] 0.009671
+[2018.11.04-11.39.21:631][726]LogBlueprintUserMessages: [AllCarClass_C_0] 0.009392
+[2018.11.04-11.39.21:641][727]LogBlueprintUserMessages: [AllCarClass_C_0] 0.009105
+[2018.11.04-11.39.21:655][728]LogBlueprintUserMessages: [AllCarClass_C_0] 0.008764
+[2018.11.04-11.39.21:666][729]LogBlueprintUserMessages: [AllCarClass_C_0] 0.008332
+[2018.11.04-11.39.21:677][730]LogBlueprintUserMessages: [AllCarClass_C_0] 0.007922
+[2018.11.04-11.39.21:687][731]LogBlueprintUserMessages: [AllCarClass_C_0] 0.007529
+[2018.11.04-11.39.21:697][732]LogBlueprintUserMessages: [AllCarClass_C_0] 0.007131
+[2018.11.04-11.39.21:708][733]LogBlueprintUserMessages: [AllCarClass_C_0] 0.00675
+[2018.11.04-11.39.21:721][734]LogBlueprintUserMessages: [AllCarClass_C_0] 0.006345
+[2018.11.04-11.39.21:731][735]LogBlueprintUserMessages: [AllCarClass_C_0] 0.005877
+[2018.11.04-11.39.21:742][736]LogBlueprintUserMessages: [AllCarClass_C_0] 0.005481
+[2018.11.04-11.39.21:752][737]LogBlueprintUserMessages: [AllCarClass_C_0] 0.005114
+[2018.11.04-11.39.21:761][738]LogBlueprintUserMessages: [AllCarClass_C_0] 0.004766
+[2018.11.04-11.39.21:772][739]LogBlueprintUserMessages: [AllCarClass_C_0] 0.004423
+[2018.11.04-11.39.21:784][740]LogBlueprintUserMessages: [AllCarClass_C_0] 0.004083
+[2018.11.04-11.39.21:794][741]LogBlueprintUserMessages: [AllCarClass_C_0] 0.003688
+[2018.11.04-11.39.21:805][742]LogBlueprintUserMessages: [AllCarClass_C_0] 0.003337
+[2018.11.04-11.39.21:815][743]LogBlueprintUserMessages: [AllCarClass_C_0] 0.003037
+[2018.11.04-11.39.21:825][744]LogBlueprintUserMessages: [AllCarClass_C_0] 0.002736
+[2018.11.04-11.39.21:835][745]LogBlueprintUserMessages: [AllCarClass_C_0] 0.002438
+[2018.11.04-11.39.21:848][746]LogBlueprintUserMessages: [AllCarClass_C_0] 0.00217
+[2018.11.04-11.39.21:858][747]LogBlueprintUserMessages: [AllCarClass_C_0] 0.001872
+[2018.11.04-11.39.21:868][748]LogBlueprintUserMessages: [AllCarClass_C_0] 0.00158
+[2018.11.04-11.39.21:878][749]LogBlueprintUserMessages: [AllCarClass_C_0] 0.001336
+[2018.11.04-11.39.21:887][750]LogBlueprintUserMessages: [AllCarClass_C_0] 0.001108
+[2018.11.04-11.39.21:896][751]LogBlueprintUserMessages: [AllCarClass_C_0] 0.000898
+[2018.11.04-11.39.21:907][752]LogBlueprintUserMessages: [AllCarClass_C_0] 0.000709
+[2018.11.04-11.39.21:920][753]LogBlueprintUserMessages: [AllCarClass_C_0] 0.000518
+[2018.11.04-11.39.21:930][754]LogBlueprintUserMessages: [AllCarClass_C_0] 0.00032
+[2018.11.04-11.39.21:940][755]LogBlueprintUserMessages: [AllCarClass_C_0] 0.000113
+[2018.11.04-11.39.21:950][756]LogBlueprintUserMessages: [AllCarClass_C_0] -0.000048
+[2018.11.04-11.39.21:960][757]LogBlueprintUserMessages: [AllCarClass_C_0] -0.000198
+[2018.11.04-11.39.21:963][757]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.04-11.39.22:010][757]LogSlate: Window 'FuturacingMobile Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.11.04-11.39.22:052][757]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.04-11.39.22:135][758]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2018.11.04-11.40.16:557][365]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/AllAssets/Levels/Garage/MenuBP/LevelButton.LevelButton
+[2018.11.04-11.45.45:667][841]LogAssetEditorManager: Opening Asset editor for Texture2D /Game/AllAssets/Levels/Garage/MenuBP/IconsMenu/GРесурс_22.GРесурс_22
+[2018.11.04-11.46.01:059][ 86]LogTexture: Display: Building textures: GРесурс_22 (BGRA8, 123X124)
+[2018.11.04-11.46.04:649][392]LogTexture: Display: Building textures: GРесурс_22 (BGRA8, 123X124)
+[2018.11.04-11.47.51:828][601]LogTexture: Display: Building textures: GРесурс_22 (BGRA8, 123X124)
+[2018.11.04-11.47.54:293][806]LogTexture: Display: Building textures: GРесурс_22 (BGRA8, 123X124)
+[2018.11.04-11.47.57:496][ 69]LogTexture: Display: Building textures: GРесурс_22 (BGRA8, 123X124)
+[2018.11.04-11.48.13:389][409]LogTexture: Display: Building textures: GРесурс_22 (BGRA8, 123X124)
+[2018.11.04-11.48.15:774][603]LogTexture: Display: Building textures: GРесурс_22 (BGRA8, 123X124)
+[2018.11.04-11.48.18:134][786]LogTexture: Display: Building textures: GРесурс_22 (BGRA8, 123X124)
+[2018.11.04-11.48.20:747][999]LogTexture: Display: Building textures: GРесурс_22 (BGRA8, 123X124)
+[2018.11.04-11.48.22:672][147]LogTexture: Display: Building textures: GРесурс_22 (BGRA8, 123X124)
+[2018.11.04-11.49.20:154][842]LogSavePackage: Moving '../../../../../../Users/spole/Documents/Unreal Projects/FuturacingMobile/Saved/GРесурс_22CD3D210C4FD1D95898C7C0B476DA84EE.tmp' to '../../../../../../Users/spole/Documents/Unreal Projects/FuturacingMobile/Content/AllAssets/Levels/Garage/MenuBP/IconsMenu/GРесурс_22.uasset'
+[2018.11.04-11.49.38:289][460]LogSlate: Window 'Color Picker' being destroyed
+[2018.11.04-11.49.46:476][724]BlueprintLog: New page: Compile LevelBar
+[2018.11.04-11.49.47:604][734]LogSavePackage: Moving '../../../../../../Users/spole/Documents/Unreal Projects/FuturacingMobile/Saved/LevelBarBDE399B44EE535D878981EB391A44D2E.tmp' to '../../../../../../Users/spole/Documents/Unreal Projects/FuturacingMobile/Content/AllAssets/Levels/Garage/MenuBP/LevelBar.uasset'
+[2018.11.04-11.53.40:721][989]LogEditorTransaction: Undo Edit Image
+[2018.11.04-11.58.46:729][174]LogSlate: Window 'Color Picker' being destroyed
+[2018.11.04-12.02.01:290][858]BlueprintLog: New page: Compile LevelBar
+[2018.11.04-12.02.02:421][870]LogSavePackage: Moving '../../../../../../Users/spole/Documents/Unreal Projects/FuturacingMobile/Saved/LevelBarF64F11F34137C8014B8123B0A1B5937C.tmp' to '../../../../../../Users/spole/Documents/Unreal Projects/FuturacingMobile/Content/AllAssets/Levels/Garage/MenuBP/LevelBar.uasset'
+[2018.11.04-12.06.14:853][662]LogSlate: Took 0.126145 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2018.11.04-12.09.18:997][967]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/AllAssets/Levels/Garage/GarageMap' took 0.051
+[2018.11.04-12.09.19:015][967]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/AllAssets/Levels/Garage/MenuBP/LevelBar] ([1] browsable assets)...
+[2018.11.04-12.09.19:015][967]OBJ SavePackage: Finished generating thumbnails for package [/Game/AllAssets/Levels/Garage/MenuBP/LevelBar]
+[2018.11.04-12.09.19:262][967]LogSavePackage: Moving '../../../../../../Users/spole/Documents/Unreal Projects/FuturacingMobile/Saved/LevelBar_Auto1EEC97F58494AEC14FED097A6C5795160.tmp' to '../../../../../../Users/spole/Documents/Unreal Projects/FuturacingMobile/Saved/Autosaves/Game/AllAssets/Levels/Garage/MenuBP/LevelBar_Auto1.uasset'
+[2018.11.04-12.09.19:273][967]LogFileHelpers: Auto-saving content packages took 0.275
+[2018.11.04-12.10.07:868][511]LogSlate: Window 'Color Picker' being destroyed
+[2018.11.04-12.10.12:118][634]BlueprintLog: New page: Compile LevelBar
+[2018.11.04-12.10.13:295][646]LogSavePackage: Moving '../../../../../../Users/spole/Documents/Unreal Projects/FuturacingMobile/Saved/LevelBar02A94DFC43E1968D7DF3D986998DE557.tmp' to '../../../../../../Users/spole/Documents/Unreal Projects/FuturacingMobile/Content/AllAssets/Levels/Garage/MenuBP/LevelBar.uasset'
+[2018.11.04-12.10.20:357][318]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/AllAssets/Levels/Garage/MenuBP/TestWidget1.TestWidget1
+[2018.11.04-12.10.42:331][ 24]BlueprintLog: New page: Compile LevelBar
+[2018.11.04-12.10.55:328][426]BlueprintLog: New page: Compile LevelBar
+[2018.11.04-12.10.56:541][438]LogSavePackage: Moving '../../../../../../Users/spole/Documents/Unreal Projects/FuturacingMobile/Saved/LevelBarB11F056942B7D85A12B2A09AA03D1E32.tmp' to '../../../../../../Users/spole/Documents/Unreal Projects/FuturacingMobile/Content/AllAssets/Levels/Garage/MenuBP/LevelBar.uasset'
+[2018.11.04-12.11.11:181][919]BlueprintLog: New page: Compile LevelBar
+[2018.11.04-12.11.12:204][926]LogSavePackage: Moving '../../../../../../Users/spole/Documents/Unreal Projects/FuturacingMobile/Saved/LevelBarF7AB894F4C36A1AB3A558E8A31E553F0.tmp' to '../../../../../../Users/spole/Documents/Unreal Projects/FuturacingMobile/Content/AllAssets/Levels/Garage/MenuBP/LevelBar.uasset'
+[2018.11.04-12.11.36:288][702]BlueprintLog: New page: Compile LevelBar
+[2018.11.04-12.11.44:275][948]BlueprintLog: New page: Compile LevelBar
+[2018.11.04-12.11.45:397][958]LogSavePackage: Moving '../../../../../../Users/spole/Documents/Unreal Projects/FuturacingMobile/Saved/LevelBarD75F50484AC0BDFAB11E188280E96C56.tmp' to '../../../../../../Users/spole/Documents/Unreal Projects/FuturacingMobile/Content/AllAssets/Levels/Garage/MenuBP/LevelBar.uasset'
+[2018.11.04-12.13.06:102][546]BlueprintLog: New page: Compile LevelBar
+[2018.11.04-12.16.01:754][800]LogSlate: Window 'Color Picker' being destroyed
+[2018.11.04-12.16.05:575][918]BlueprintLog: New page: Compile LevelBar
+[2018.11.04-12.16.06:831][928]LogSavePackage: Moving '../../../../../../Users/spole/Documents/Unreal Projects/FuturacingMobile/Saved/LevelBarC4E4779C4E7C2BFD08969E81FA0678D2.tmp' to '../../../../../../Users/spole/Documents/Unreal Projects/FuturacingMobile/Content/AllAssets/Levels/Garage/MenuBP/LevelBar.uasset'
+[2018.11.04-12.16.14:984][167]BlueprintLog: New page: Compile TestWidget1
+[2018.11.04-12.16.16:006][181]LogSavePackage: Moving '../../../../../../Users/spole/Documents/Unreal Projects/FuturacingMobile/Saved/TestWidget10248563D4D36269C22D8ACA07820F30A.tmp' to '../../../../../../Users/spole/Documents/Unreal Projects/FuturacingMobile/Content/AllAssets/Levels/Garage/MenuBP/TestWidget1.uasset'
+[2018.11.04-12.29.26:959][353]LogSlate: Window 'Color Picker' being destroyed
+[2018.11.04-12.30.51:566][192]BlueprintLog: New page: Compile LevelBar
+[2018.11.04-12.30.53:183][211]LogSavePackage: Moving '../../../../../../Users/spole/Documents/Unreal Projects/FuturacingMobile/Saved/LevelBarD6DB0D2647F1BD8C873B15B2A4080298.tmp' to '../../../../../../Users/spole/Documents/Unreal Projects/FuturacingMobile/Content/AllAssets/Levels/Garage/MenuBP/LevelBar.uasset'
+[2018.11.04-12.34.50:581][151]BlueprintLog: New page: Compile LevelBar
+[2018.11.04-12.34.52:869][151]LogStats: FPlatformStackWalk::StackWalkAndDump -  1.942 s
+[2018.11.04-12.34.52:869][151]LogOutputDevice: Error: === Handled ensure: ===
+[2018.11.04-12.34.52:869][151]LogOutputDevice: Error: 
+[2018.11.04-12.34.52:869][151]LogOutputDevice: Error: Ensure condition failed: !IsGarbageCollecting() [File:D:\Build\++UE4\Sync\Engine\Source\Runtime\UMG\Private\Slate\SObjectWidget.cpp] [Line: 41]
+[2018.11.04-12.34.52:869][151]LogOutputDevice: Error: SObjectWidget for 'LevelButton_C /Engine/Transient.World_5:TestWidget1_C_20.WidgetTree_0.LevelBar.WidgetTree_0.LevelButton' destroyed while collecting garbage.  This can lead to multiple GCs being required to cleanup the object.  Possible causes might be,
+[2018.11.04-12.34.52:869][151]LogOutputDevice: Error: 1) ReleaseSlateResources not being implemented for the owner of this pointer.
+[2018.11.04-12.34.52:869][151]LogOutputDevice: Error: 2) You may just be holding onto some slate pointers on an actor that don't get reset until the actor is Garbage Collected.  You should avoid doing this, and instead reset those references when the actor is Destroyed.
+[2018.11.04-12.34.52:869][151]LogOutputDevice: Error: Stack: 
+[2018.11.04-12.34.52:869][151]LogOutputDevice: Error: [Callstack] 0x00007ff919fc71f6 UE4Editor-Core.dll!UnknownFunction []
+[2018.11.04-12.34.52:870][151]LogOutputDevice: Error: [Callstack] 0x00007ff919d00c92 UE4Editor-Core.dll!UnknownFunction []
+[2018.11.04-12.34.52:870][151]LogOutputDevice: Error: [Callstack] 0x00007ff919d1b356 UE4Editor-Core.dll!UnknownFunction []
+[2018.11.04-12.34.52:870][151]LogOutputDevice: Error: [Callstack] 0x00007ff911149a63 UE4Editor-UMG.dll!UnknownFunction []
+[2018.11.04-12.34.52:870][151]LogOutputDevice: Error: [Callstack] 0x00007ff9219d7496 UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.11.04-12.34.52:870][151]LogOutputDevice: Error: [Callstack] 0x00007ff9219e01c5 UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.11.04-12.34.52:870][151]LogOutputDevice: Error: [Callstack] 0x00007ff9219d738e UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.11.04-12.34.52:870][151]LogOutputDevice: Error: [Callstack] 0x00007ff9219e0215 UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.11.04-12.34.52:870][151]LogOutputDevice: Error: [Callstack] 0x00007ff9219df39a UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.11.04-12.34.52:870][151]LogOutputDevice: Error: [Callstack] 0x00007ff91631755a UE4Editor-Slate.dll!UnknownFunction []
+[2018.11.04-12.34.52:870][151]LogOutputDevice: Error: [Callstack] 0x00007ff911212ebb UE4Editor-UMG.dll!UnknownFunction []
+[2018.11.04-12.34.52:870][151]LogOutputDevice: Error: [Callstack] 0x00007ff919742ad1 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.11.04-12.34.52:870][151]LogOutputDevice: Error: [Callstack] 0x00007ff91971756e UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.11.04-12.34.52:870][151]LogOutputDevice: Error: [Callstack] 0x00007ff919693f54 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.11.04-12.34.52:870][151]LogOutputDevice: Error: [Callstack] 0x00007ff9196934ae UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.11.04-12.34.52:870][151]LogOutputDevice: Error: [Callstack] 0x00007ff912120091 UE4Editor-Kismet.dll!UnknownFunction []
+[2018.11.04-12.34.52:870][151]LogOutputDevice: Error: [Callstack] 0x00007ff91544df4c UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.11.04-12.34.52:870][151]LogOutputDevice: Error: [Callstack] 0x00007ff91211f8ff UE4Editor-Kismet.dll!UnknownFunction []
+[2018.11.04-12.34.52:870][151]LogOutputDevice: Error: [Callstack] 0x00007ff9121805b8 UE4Editor-Kismet.dll!UnknownFunction []
+[2018.11.04-12.34.52:870][151]LogOutputDevice: Error: [Callstack] 0x00007ff9163429fe UE4Editor-Slate.dll!UnknownFunction []
+[2018.11.04-12.34.52:870][151]LogOutputDevice: Error: [Callstack] 0x00007ff916445872 UE4Editor-Slate.dll!UnknownFunction []
+[2018.11.04-12.34.52:870][151]LogOutputDevice: Error: [Callstack] 0x00007ff9164224bf UE4Editor-Slate.dll!UnknownFunction []
+[2018.11.04-12.34.52:870][151]LogOutputDevice: Error: [Callstack] 0x00007ff916509c3b UE4Editor-Slate.dll!UnknownFunction []
+[2018.11.04-12.34.52:870][151]LogOutputDevice: Error: [Callstack] 0x00007ff9162f94c5 UE4Editor-Slate.dll!UnknownFunction []
+[2018.11.04-12.34.52:870][151]LogOutputDevice: Error: [Callstack] 0x00007ff916391db2 UE4Editor-Slate.dll!UnknownFunction []
+[2018.11.04-12.34.52:870][151]LogOutputDevice: Error: [Callstack] 0x00007ff916377c7a UE4Editor-Slate.dll!UnknownFunction []
+[2018.11.04-12.34.52:870][151]LogOutputDevice: Error: [Callstack] 0x00007ff91636b25c UE4Editor-Slate.dll!UnknownFunction []
+[2018.11.04-12.34.52:870][151]LogOutputDevice: Error: [Callstack] 0x00007ff943cdd1c7 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.11.04-12.34.52:870][151]LogOutputDevice: Error: [Callstack] 0x00007ff943cd0270 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.11.04-12.34.52:870][151]LogOutputDevice: Error: [Callstack] 0x00007ff943cdf4c5 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.11.04-12.34.52:871][151]LogOutputDevice: Error: [Callstack] 0x00007ff943ccc209 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.11.04-12.34.52:871][151]LogOutputDevice: Error: [Callstack] 0x00007ff961d26cc1 USER32.dll!UnknownFunction []
+[2018.11.04-12.34.52:871][151]LogOutputDevice: Error: [Callstack] 0x00007ff961d26693 USER32.dll!UnknownFunction []
+[2018.11.04-12.34.52:871][151]LogOutputDevice: Error: [Callstack] 0x00007ff943ce0646 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.11.04-12.34.52:871][151]LogOutputDevice: Error: [Callstack] 0x00007ff6f93254e5 UE4Editor.exe!UnknownFunction []
+[2018.11.04-12.34.52:871][151]LogOutputDevice: Error: [Callstack] 0x00007ff6f9335b3c UE4Editor.exe!UnknownFunction []
+[2018.11.04-12.34.52:871][151]LogOutputDevice: Error: [Callstack] 0x00007ff6f9335bba UE4Editor.exe!UnknownFunction []
+[2018.11.04-12.34.52:871][151]LogOutputDevice: Error: [Callstack] 0x00007ff6f9343dac UE4Editor.exe!UnknownFunction []
+[2018.11.04-12.34.52:871][151]LogOutputDevice: Error: [Callstack] 0x00007ff6f9345aaa UE4Editor.exe!UnknownFunction []
+[2018.11.04-12.34.52:871][151]LogOutputDevice: Error: [Callstack] 0x00007ff961ed3034 KERNEL32.DLL!UnknownFunction []
+[2018.11.04-12.34.52:871][151]LogOutputDevice: Error: [Callstack] 0x00007ff962f81461 ntdll.dll!UnknownFunction []
+[2018.11.04-12.34.52:871][151]LogOutputDevice: Error: 
+[2018.11.04-12.34.52:881][151]LogStats:                SubmitErrorReport -  0.000 s

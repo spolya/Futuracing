@@ -1,0 +1,741 @@
+﻿Log file open, 01/05/19 22:55:34
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: FuturacingMobile
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 47 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.641523
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +7:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.214s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.21-CL-4613538
+LogInit: Engine Version: 4.21.1-4613538+++UE4+Release-4.21
+LogInit: Compatible Engine Version: 4.21.0-4541578+++UE4+Release-4.21
+LogInit: Net CL: 4541578
+LogInit: OS: Windows 10 (), CPU:        Intel(R) Xeon(R) CPU E5-2660 0 @ 2.20GHz, GPU: NVIDIA GeForce GTX 970
+LogInit: Compiled (64-bit): Nov 30 2018 04:13:25
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.21
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.21/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 22
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 26
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 27
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 17
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 4
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogStreaming: Display: Took  0.005s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.01.05-15.55.34:926][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.01.05-15.55.34:926][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.01.05-15.55.34:926][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/spole/OneDrive/Документы/FuturacingMobile/FuturacingMobile/Saved/Config/Windows/Engine.ini]
+[2019.01.05-15.55.34:926][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:1]]
+[2019.01.05-15.55.34:926][  0]LogConfig: Setting CVar [[r.MobileHDR:0]]
+[2019.01.05-15.55.34:927][  0]LogConfig: Setting CVar [[r.Mobile.DisableVertexFog:1]]
+[2019.01.05-15.55.34:927][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxMobileCascades:2]]
+[2019.01.05-15.55.34:927][  0]LogConfig: Setting CVar [[r.MobileMSAA:1]]
+[2019.01.05-15.55.34:927][  0]LogConfig: Setting CVar [[r.DiscardUnusedQuality:0]]
+[2019.01.05-15.55.34:927][  0]LogConfig: Setting CVar [[r.AllowOcclusionQueries:1]]
+[2019.01.05-15.55.34:927][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForLights:0.030000]]
+[2019.01.05-15.55.34:927][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForDepthPrepass:0.030000]]
+[2019.01.05-15.55.34:927][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForCSMDepth:0.010000]]
+[2019.01.05-15.55.34:927][  0]LogConfig: Setting CVar [[r.PrecomputedVisibilityWarning:0]]
+[2019.01.05-15.55.34:927][  0]LogConfig: Setting CVar [[r.TextureStreaming:1]]
+[2019.01.05-15.55.34:927][  0]LogConfig: Setting CVar [[Compat.UseDXT5NormalMaps:0]]
+[2019.01.05-15.55.34:927][  0]LogConfig: Setting CVar [[r.ClearCoatNormal:0]]
+[2019.01.05-15.55.34:927][  0]LogConfig: Setting CVar [[r.ReflectionCaptureResolution:128]]
+[2019.01.05-15.55.34:927][  0]LogConfig: Setting CVar [[r.ReflectionEnvironmentLightmapMixBasedOnRoughness:1]]
+[2019.01.05-15.55.34:927][  0]LogConfig: Setting CVar [[r.ForwardShading:0]]
+[2019.01.05-15.55.34:927][  0]LogConfig: Setting CVar [[r.VertexFoggingForOpaque:1]]
+[2019.01.05-15.55.34:927][  0]LogConfig: Setting CVar [[r.AllowStaticLighting:1]]
+[2019.01.05-15.55.34:927][  0]LogConfig: Setting CVar [[r.NormalMapsForStaticLighting:0]]
+[2019.01.05-15.55.34:927][  0]LogConfig: Setting CVar [[r.GenerateMeshDistanceFields:0]]
+[2019.01.05-15.55.34:927][  0]LogConfig: Setting CVar [[r.DistanceFieldBuild.EightBit:0]]
+[2019.01.05-15.55.34:927][  0]LogConfig: Setting CVar [[r.GenerateLandscapeGIData:0]]
+[2019.01.05-15.55.34:927][  0]LogConfig: Setting CVar [[r.DistanceFieldBuild.Compress:0]]
+[2019.01.05-15.55.34:927][  0]LogConfig: Setting CVar [[r.TessellationAdaptivePixelsPerTriangle:48.000000]]
+[2019.01.05-15.55.34:927][  0]LogConfig: Setting CVar [[r.SeparateTranslucency:0]]
+[2019.01.05-15.55.34:927][  0]LogConfig: Setting CVar [[r.TranslucentSortPolicy:0]]
+[2019.01.05-15.55.34:927][  0]LogConfig: Setting CVar [[r.CustomDepth:1]]
+[2019.01.05-15.55.34:927][  0]LogConfig: Setting CVar [[r.CustomDepthTemporalAAJitter:1]]
+[2019.01.05-15.55.34:927][  0]LogConfig: Setting CVar [[r.PostProcessing.PropagateAlpha:1]]
+[2019.01.05-15.55.34:927][  0]LogConfig: Setting CVar [[r.UsePreExposure:0]]
+[2019.01.05-15.55.34:927][  0]LogConfig: Setting CVar [[r.DefaultFeature.Bloom:0]]
+[2019.01.05-15.55.34:927][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusion:0]]
+[2019.01.05-15.55.34:927][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusionStaticFraction:0]]
+[2019.01.05-15.55.34:927][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure:0]]
+[2019.01.05-15.55.34:927][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.Method:0]]
+[2019.01.05-15.55.34:927][  0]LogConfig: Setting CVar [[r.DefaultFeature.MotionBlur:0]]
+[2019.01.05-15.55.34:927][  0]LogConfig: Setting CVar [[r.DefaultFeature.LensFlare:0]]
+[2019.01.05-15.55.34:927][  0]LogConfig: Setting CVar [[r.TemporalAA.Upsampling:0]]
+[2019.01.05-15.55.34:928][  0]LogConfig: Setting CVar [[r.DefaultFeature.AntiAliasing:0]]
+[2019.01.05-15.55.34:928][  0]LogConfig: Setting CVar [[r.Shadow.UnbuiltPreviewInGame:1]]
+[2019.01.05-15.55.34:928][  0]LogConfig: Setting CVar [[r.StencilForLODDither:0]]
+[2019.01.05-15.55.34:928][  0]LogConfig: Setting CVar [[r.EarlyZPass:3]]
+[2019.01.05-15.55.34:928][  0]LogConfig: Setting CVar [[r.EarlyZPassMovable:1]]
+[2019.01.05-15.55.34:928][  0]LogConfig: Setting CVar [[r.EarlyZPassOnlyMaterialMasking:0]]
+[2019.01.05-15.55.34:928][  0]LogConfig: Setting CVar [[r.DBuffer:1]]
+[2019.01.05-15.55.34:928][  0]LogConfig: Setting CVar [[r.ClearSceneMethod:1]]
+[2019.01.05-15.55.34:928][  0]LogConfig: Setting CVar [[r.BasePassOutputsVelocity:0]]
+[2019.01.05-15.55.34:928][  0]LogConfig: Setting CVar [[r.SelectiveBasePassOutputs:0]]
+[2019.01.05-15.55.34:928][  0]LogConfig: Setting CVar [[r.AllowGlobalClipPlane:0]]
+[2019.01.05-15.55.34:928][  0]LogConfig: Setting CVar [[r.GBufferFormat:1]]
+[2019.01.05-15.55.34:928][  0]LogConfig: Setting CVar [[r.MorphTarget.Mode:1]]
+[2019.01.05-15.55.34:928][  0]LogConfig: Setting CVar [[vr.InstancedStereo:0]]
+[2019.01.05-15.55.34:928][  0]LogConfig: Setting CVar [[vr.MultiView:0]]
+[2019.01.05-15.55.34:928][  0]LogConfig: Setting CVar [[vr.MobileMultiView:0]]
+[2019.01.05-15.55.34:928][  0]LogConfig: Setting CVar [[vr.MobileMultiView.Direct:0]]
+[2019.01.05-15.55.34:928][  0]LogConfig: Setting CVar [[vr.MonoscopicFarField:0]]
+[2019.01.05-15.55.34:928][  0]LogConfig: Setting CVar [[r.WireframeCullThreshold:5.000000]]
+[2019.01.05-15.55.34:928][  0]LogConfig: Setting CVar [[r.SupportStationarySkylight:1]]
+[2019.01.05-15.55.34:928][  0]LogConfig: Setting CVar [[r.SupportLowQualityLightmaps:1]]
+[2019.01.05-15.55.34:928][  0]LogConfig: Setting CVar [[r.SupportPointLightWholeSceneShadows:1]]
+[2019.01.05-15.55.34:928][  0]LogConfig: Setting CVar [[r.SupportAtmosphericFog:1]]
+[2019.01.05-15.55.34:928][  0]LogConfig: Setting CVar [[r.SkinCache.CompileShaders:0]]
+[2019.01.05-15.55.34:928][  0]LogConfig: Setting CVar [[r.Mobile.EnableStaticAndCSMShadowReceivers:1]]
+[2019.01.05-15.55.34:929][  0]LogConfig: Setting CVar [[r.Mobile.EnableMovableLightCSMShaderCulling:1]]
+[2019.01.05-15.55.34:929][  0]LogConfig: Setting CVar [[r.Mobile.AllowDistanceFieldShadows:1]]
+[2019.01.05-15.55.34:929][  0]LogConfig: Setting CVar [[r.Mobile.AllowMovableDirectionalLights:1]]
+[2019.01.05-15.55.34:929][  0]LogConfig: Setting CVar [[r.MobileNumDynamicPointLights:4]]
+[2019.01.05-15.55.34:929][  0]LogConfig: Setting CVar [[r.MobileDynamicPointLightsUseStaticBranch:1]]
+[2019.01.05-15.55.34:929][  0]LogConfig: Setting CVar [[r.SkinCache.SceneMemoryLimitInMB:128.000000]]
+[2019.01.05-15.55.34:929][  0]LogConfig: Setting CVar [[r.GPUSkin.Limit2BoneInfluences:0]]
+[2019.01.05-15.55.34:929][  0]LogConfig: Setting CVar [[r.SupportDepthOnlyIndexBuffers:1]]
+[2019.01.05-15.55.34:929][  0]LogConfig: Setting CVar [[r.SupportReversedIndexBuffers:1]]
+[2019.01.05-15.55.34:929][  0]LogConfig: Setting CVar [[r.SupportMaterialLayers:0]]
+[2019.01.05-15.55.34:929][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/spole/OneDrive/Документы/FuturacingMobile/FuturacingMobile/Saved/Config/Windows/Engine.ini]
+[2019.01.05-15.55.34:929][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/spole/OneDrive/Документы/FuturacingMobile/FuturacingMobile/Saved/Config/Windows/Engine.ini]
+[2019.01.05-15.55.34:929][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.01.05-15.55.34:929][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.01.05-15.55.34:929][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.01.05-15.55.34:929][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.01.05-15.55.34:929][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.01.05-15.55.34:929][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.01.05-15.55.34:929][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.01.05-15.55.34:929][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.01.05-15.55.34:929][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.01.05-15.55.34:929][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.01.05-15.55.34:929][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.01.05-15.55.34:929][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.01.05-15.55.34:930][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.01.05-15.55.34:930][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/spole/OneDrive/Документы/FuturacingMobile/FuturacingMobile/Saved/Config/Windows/Engine.ini]
+[2019.01.05-15.55.34:930][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.01.05-15.55.34:930][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.01.05-15.55.34:930][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.01.05-15.55.34:930][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.01.05-15.55.34:930][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.01.05-15.55.34:930][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.01.05-15.55.34:930][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:8388607]]
+[2019.01.05-15.55.34:930][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.01.05-15.55.34:930][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.01.05-15.55.34:930][  0]LogConfig: Setting CVar [[gc.MergeGCClusters:0]]
+[2019.01.05-15.55.34:930][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.01.05-15.55.34:930][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.01.05-15.55.34:930][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.01.05-15.55.34:930][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.01.05-15.55.34:930][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/spole/OneDrive/Документы/FuturacingMobile/FuturacingMobile/Saved/Config/Windows/Engine.ini]
+[2019.01.05-15.55.34:930][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/spole/OneDrive/Документы/FuturacingMobile/FuturacingMobile/Saved/Config/Windows/Engine.ini]
+[2019.01.05-15.55.34:966][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/spole/OneDrive/Документы/FuturacingMobile/FuturacingMobile/Saved/Config/Windows/Scalability.ini]
+[2019.01.05-15.55.34:966][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.01.05-15.55.34:966][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.01.05-15.55.34:966][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/spole/OneDrive/Документы/FuturacingMobile/FuturacingMobile/Saved/Config/Windows/Scalability.ini]
+[2019.01.05-15.55.34:966][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.01.05-15.55.34:966][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/spole/OneDrive/Документы/FuturacingMobile/FuturacingMobile/Saved/Config/Windows/Scalability.ini]
+[2019.01.05-15.55.34:966][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.01.05-15.55.34:966][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.01.05-15.55.34:967][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.01.05-15.55.34:967][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.01.05-15.55.34:967][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.01.05-15.55.34:967][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.01.05-15.55.34:967][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.01.05-15.55.34:967][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.01.05-15.55.34:967][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.01.05-15.55.34:967][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.01.05-15.55.34:967][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.01.05-15.55.34:967][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.01.05-15.55.34:967][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.01.05-15.55.34:967][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.01.05-15.55.34:967][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.01.05-15.55.34:967][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.01.05-15.55.34:967][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.01.05-15.55.34:967][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.01.05-15.55.34:967][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/spole/OneDrive/Документы/FuturacingMobile/FuturacingMobile/Saved/Config/Windows/Scalability.ini]
+[2019.01.05-15.55.34:967][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.01.05-15.55.34:967][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.01.05-15.55.34:967][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.01.05-15.55.34:967][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.01.05-15.55.34:967][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.01.05-15.55.34:967][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.01.05-15.55.34:967][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.01.05-15.55.34:967][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.01.05-15.55.34:967][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.01.05-15.55.34:967][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.01.05-15.55.34:967][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.01.05-15.55.34:967][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.01.05-15.55.34:967][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.01.05-15.55.34:967][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.01.05-15.55.34:967][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.01.05-15.55.34:967][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.01.05-15.55.34:967][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.01.05-15.55.34:967][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.01.05-15.55.34:967][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.01.05-15.55.34:967][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.01.05-15.55.34:968][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.01.05-15.55.34:968][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.01.05-15.55.34:968][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.01.05-15.55.34:968][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.01.05-15.55.34:968][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.01.05-15.55.34:968][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.01.05-15.55.34:968][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.01.05-15.55.34:968][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.01.05-15.55.34:968][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.01.05-15.55.34:968][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.01.05-15.55.34:968][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/spole/OneDrive/Документы/FuturacingMobile/FuturacingMobile/Saved/Config/Windows/Scalability.ini]
+[2019.01.05-15.55.34:968][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.01.05-15.55.34:968][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.01.05-15.55.34:968][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.01.05-15.55.34:968][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.01.05-15.55.34:968][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.01.05-15.55.34:968][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.01.05-15.55.34:968][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.01.05-15.55.34:968][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.01.05-15.55.34:968][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/spole/OneDrive/Документы/FuturacingMobile/FuturacingMobile/Saved/Config/Windows/Scalability.ini]
+[2019.01.05-15.55.34:968][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.01.05-15.55.34:968][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.01.05-15.55.34:968][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.01.05-15.55.34:968][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.01.05-15.55.34:968][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.01.05-15.55.34:968][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.01.05-15.55.34:968][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.01.05-15.55.34:968][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.01.05-15.55.34:968][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.01.05-15.55.34:968][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.01.05-15.55.34:968][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.01.05-15.55.34:968][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.01.05-15.55.34:968][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.01.05-15.55.34:968][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/spole/OneDrive/Документы/FuturacingMobile/FuturacingMobile/Saved/Config/Windows/Scalability.ini]
+[2019.01.05-15.55.34:968][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.01.05-15.55.34:968][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.01.05-15.55.34:969][  0]LogInit: Selected Device Profile: [Windows]
+[2019.01.05-15.55.34:969][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.01.05-15.55.35:005][  0]LogHAL: Display: Platform has ~ 16 GB [17092341760 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.01.05-15.55.35:005][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:1]]
+[2019.01.05-15.55.35:005][  0]LogInit: Going up to parent DeviceProfile []
+[2019.01.05-15.55.35:005][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/spole/OneDrive/Документы/FuturacingMobile/FuturacingMobile/Saved/Config/Windows/Scalability.ini]
+[2019.01.05-15.55.35:006][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.01.05-15.55.35:006][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.01.05-15.55.35:006][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/spole/OneDrive/Документы/FuturacingMobile/FuturacingMobile/Saved/Config/Windows/Scalability.ini]
+[2019.01.05-15.55.35:006][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.01.05-15.55.35:006][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/spole/OneDrive/Документы/FuturacingMobile/FuturacingMobile/Saved/Config/Windows/Scalability.ini]
+[2019.01.05-15.55.35:006][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.01.05-15.55.35:006][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.01.05-15.55.35:006][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.01.05-15.55.35:006][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.01.05-15.55.35:006][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.01.05-15.55.35:006][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.01.05-15.55.35:006][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.01.05-15.55.35:006][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.01.05-15.55.35:006][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.01.05-15.55.35:006][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.01.05-15.55.35:006][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.01.05-15.55.35:006][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.01.05-15.55.35:006][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.01.05-15.55.35:006][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.01.05-15.55.35:007][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.01.05-15.55.35:007][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.01.05-15.55.35:007][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.01.05-15.55.35:007][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.01.05-15.55.35:007][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/spole/OneDrive/Документы/FuturacingMobile/FuturacingMobile/Saved/Config/Windows/Scalability.ini]
+[2019.01.05-15.55.35:007][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.01.05-15.55.35:007][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.01.05-15.55.35:007][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.01.05-15.55.35:007][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.01.05-15.55.35:007][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.01.05-15.55.35:007][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.01.05-15.55.35:007][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.01.05-15.55.35:007][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.01.05-15.55.35:007][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.01.05-15.55.35:007][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.01.05-15.55.35:007][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.01.05-15.55.35:007][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.01.05-15.55.35:007][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.01.05-15.55.35:007][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.01.05-15.55.35:007][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.01.05-15.55.35:007][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.01.05-15.55.35:007][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.01.05-15.55.35:007][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.01.05-15.55.35:007][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.01.05-15.55.35:007][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.01.05-15.55.35:007][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.01.05-15.55.35:007][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.01.05-15.55.35:007][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.01.05-15.55.35:007][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.01.05-15.55.35:007][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.01.05-15.55.35:007][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.01.05-15.55.35:007][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.01.05-15.55.35:007][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.01.05-15.55.35:008][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.01.05-15.55.35:008][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.01.05-15.55.35:008][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/spole/OneDrive/Документы/FuturacingMobile/FuturacingMobile/Saved/Config/Windows/Scalability.ini]
+[2019.01.05-15.55.35:008][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.01.05-15.55.35:008][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.01.05-15.55.35:008][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.01.05-15.55.35:008][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.01.05-15.55.35:008][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.01.05-15.55.35:008][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.01.05-15.55.35:008][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.01.05-15.55.35:008][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.01.05-15.55.35:008][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/spole/OneDrive/Документы/FuturacingMobile/FuturacingMobile/Saved/Config/Windows/Scalability.ini]
+[2019.01.05-15.55.35:008][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.01.05-15.55.35:008][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.01.05-15.55.35:008][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.01.05-15.55.35:008][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.01.05-15.55.35:008][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.01.05-15.55.35:008][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.01.05-15.55.35:008][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.01.05-15.55.35:008][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.01.05-15.55.35:009][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.01.05-15.55.35:009][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.01.05-15.55.35:009][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.01.05-15.55.35:009][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.01.05-15.55.35:009][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.01.05-15.55.35:009][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/spole/OneDrive/Документы/FuturacingMobile/FuturacingMobile/Saved/Config/Windows/Scalability.ini]
+[2019.01.05-15.55.35:009][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.01.05-15.55.35:009][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.01.05-15.55.35:009][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.01.05-15.55.35:009][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.01.05-15.55.35:009][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/spole/OneDrive/Документы/FuturacingMobile/FuturacingMobile/Saved/Config/Windows/Engine.ini]
+[2019.01.05-15.55.35:009][  0]LogInit: Computer: DESKTOP-0CDTLFE
+[2019.01.05-15.55.35:009][  0]LogInit: User: spole
+[2019.01.05-15.55.35:010][  0]LogInit: CPU Page size=4096, Cores=8
+[2019.01.05-15.55.35:010][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2019.01.05-15.55.35:010][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2019.01.05-15.55.35:010][  0]LogMemory: Platform Memory Stats for Windows
+[2019.01.05-15.55.35:010][  0]LogMemory: Process Physical Memory: 106.23 MB used, 106.23 MB peak
+[2019.01.05-15.55.35:010][  0]LogMemory: Process Virtual Memory: 98.50 MB used, 98.50 MB peak
+[2019.01.05-15.55.35:010][  0]LogMemory: Physical Memory: 5037.82 MB used,  11262.71 MB free, 16300.53 MB total
+[2019.01.05-15.55.35:010][  0]LogMemory: Virtual Memory: 4690.29 MB used,  134213040.00 MB free, 134217728.00 MB total
+[2019.01.05-15.55.35:047][  0]LogInit: Using OS detected language (ru-RU).
+[2019.01.05-15.55.35:047][  0]LogInit: Using OS detected locale (ru-RU).
+[2019.01.05-15.55.35:049][  0]LogTextLocalizationManager: No specific localization for 'ru-RU' exists, so the 'ru' localization will be used.
+[2019.01.05-15.55.35:053][  0]LogStreaming: Display: Took  0.006s to InitEngineTextLocalization.
+[2019.01.05-15.55.35:053][  0]LogInit: Setting process to per monitor DPI aware
+[2019.01.05-15.55.35:132][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.01.05-15.55.35:132][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.01.05-15.55.35:576][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.01.05-15.55.35:576][  0]LogD3D11RHI: D3D11 adapters:
+[2019.01.05-15.55.35:696][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 970' (Feature Level 11_0)
+[2019.01.05-15.55.35:696][  0]LogD3D11RHI:       4058/0/8150 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:3, VendorId:0x10de
+[2019.01.05-15.55.35:701][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.01.05-15.55.35:701][  0]LogD3D11RHI:       0/0/8150 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.01.05-15.55.35:701][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.01.05-15.55.35:711][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.01.05-15.55.35:711][  0]LogD3D11RHI:     GPU DeviceId: 0x13c2 (for the marketing name, search the web for "GPU Device Id")
+[2019.01.05-15.55.35:711][  0]LogWindows: EnumDisplayDevices:
+[2019.01.05-15.55.35:711][  0]LogWindows:    0. 'NVIDIA GeForce GTX 970' (P:1 D:1)
+[2019.01.05-15.55.35:712][  0]LogWindows:    1. 'NVIDIA GeForce GTX 970' (P:0 D:1)
+[2019.01.05-15.55.35:712][  0]LogWindows:    2. 'NVIDIA GeForce GTX 970' (P:0 D:1)
+[2019.01.05-15.55.35:713][  0]LogWindows:    3. 'NVIDIA GeForce GTX 970' (P:0 D:0)
+[2019.01.05-15.55.35:714][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2019.01.05-15.55.35:714][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 970
+[2019.01.05-15.55.35:714][  0]LogD3D11RHI:   Driver Version: 388.13 (internal:23.21.13.8813, unified:388.13)
+[2019.01.05-15.55.35:714][  0]LogD3D11RHI:      Driver Date: 10-27-2017
+[2019.01.05-15.55.35:714][  0]LogRHI: Texture pool is 2840 MB (70% of 4058 MB)
+[2019.01.05-15.55.35:779][  0]LogD3D11RHI: [Aftermath] Failed to initialize. Result=bad0000b
+[2019.01.05-15.55.35:780][  0]LogD3D11RHI: Async texture creation enabled
+[2019.01.05-15.55.35:796][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2019.01.05-15.55.36:474][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2019.01.05-15.55.36:498][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2019.01.05-15.55.36:523][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2019.01.05-15.55.36:547][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2019.01.05-15.55.36:573][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2019.01.05-15.55.36:597][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2019.01.05-15.55.36:629][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2019.01.05-15.55.36:658][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2019.01.05-15.55.36:671][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2019.01.05-15.55.36:803][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.05-15.55.36:803][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.05-15.55.36:803][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.05-15.55.36:803][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.05-15.55.36:803][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.05-15.55.36:803][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.05-15.55.36:803][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.05-15.55.36:803][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.05-15.55.36:803][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.05-15.55.36:803][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.05-15.55.36:803][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.05-15.55.36:803][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.05-15.55.36:803][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.05-15.55.36:803][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.05-15.55.36:803][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.05-15.55.36:803][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.05-15.55.36:803][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.05-15.55.36:803][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.05-15.55.36:806][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2019.01.05-15.55.36:895][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.01.05-15.55.36:895][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.01.05-15.55.36:944][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.01.05-15.55.36:944][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.01.05-15.55.36:969][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2019.01.05-15.55.36:993][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2019.01.05-15.55.37:022][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2019.01.05-15.55.37:056][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2019.01.05-15.55.37:146][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.01.05-15.55.37:146][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.01.05-15.55.37:146][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.01.05-15.55.37:316][  0]LogShaderCompilers: Guid format shader working directory is -36 characters bigger than the processId version (../../../../../../Users/spole/OneDrive/Документы/FuturacingMobile/FuturacingMobile/Intermediate/Shaders/WorkingDirectory/6164/).
+[2019.01.05-15.55.37:316][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/spole/AppData/Local/Temp/UnrealShaderWorkingDir/59D082524B8EA885FAC58881AF5A414B/'.
+[2019.01.05-15.55.37:324][  0]LogXGEController: Cleaning working directory: C:/Users/spole/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2019.01.05-15.55.37:324][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.01.05-15.55.37:324][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.01.05-15.55.37:324][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.01.05-15.55.38:402][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.01.05-15.55.38:509][  0]LogDerivedDataCache: Loaded boot cache 0.11s 72MB C:/Users/spole/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2019.01.05-15.55.38:510][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/spole/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc
+[2019.01.05-15.55.38:510][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/spole/OneDrive/Документы/FuturacingMobile/FuturacingMobile/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.01.05-15.55.38:510][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.01.05-15.55.38:510][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/spole/OneDrive/Документы/FuturacingMobile/FuturacingMobile/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.01.05-15.55.38:510][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.01.05-15.55.38:535][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.01.05-15.55.38:535][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.01.05-15.55.38:535][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.01.05-15.55.38:548][  0]LogDerivedDataCache: Using Local data cache path C:/Users/spole/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.01.05-15.55.38:548][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.01.05-15.55.38:548][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.01.05-15.55.38:600][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.01.05-15.55.38:603][  0]LogSlate: Using FreeType 2.6.0
+[2019.01.05-15.55.38:604][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.01.05-15.55.38:759][  0]LogAssetRegistry: FAssetRegistry took 0.0460 seconds to start up
+[2019.01.05-15.55.39:518][  0]LogInit: Selected Device Profile: [Windows]
+[2019.01.05-15.55.39:888][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2019.01.05-15.55.39:901][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2019.01.05-15.55.39:901][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.01.05-15.55.39:901][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.01.05-15.55.39:901][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2019.01.05-15.55.39:938][  0]LogNetVersion: FuturacingMobile 1.0.0, NetCL: 4541578, EngineNetVer: 5, GameNetVer: 0 (Checksum: 3841648566)
+[2019.01.05-15.55.41:023][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.150423 seconds
+[2019.01.05-15.55.41:030][  0]LogUObjectArray: 39775 objects as part of root set at end of initial load.
+[2019.01.05-15.55.41:030][  0]LogUObjectAllocator: 6914656 out of 0 bytes used by permanent object pool.
+[2019.01.05-15.55.41:030][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.01.05-15.55.42:867][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.01.05-15.55.42:885][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.01.05-15.55.44:278][  0]SourceControl: Source control is disabled
+[2019.01.05-15.55.44:278][  0]SourceControl: Source control is disabled
+[2019.01.05-15.55.44:281][  0]SourceControl: Source control is disabled
+[2019.01.05-15.55.44:282][  0]SourceControl: Source control is disabled
+[2019.01.05-15.55.44:542][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.01.05-15.55.44:789][  0]LogOcInput: OculusInput pre-init called
+[2019.01.05-15.55.45:033][  0]LogEngine: Initializing Engine...
+[2019.01.05-15.55.45:034][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.01.05-15.55.45:037][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.01.05-15.55.45:037][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.01.05-15.55.45:037][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.01.05-15.55.45:037][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.01.05-15.55.45:507][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.01.05-15.55.45:544][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.01.05-15.55.45:618][  0]LogInit: XAudio2 using 'Динамики (Устройство с поддержкой High Definition Audio)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2019.01.05-15.55.45:661][  0]LogInit: FAudioDevice initialized.
+[2019.01.05-15.55.45:661][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.01.05-15.55.46:444][  0]LogDerivedDataCache: Saved boot cache 0.78s 72MB C:/Users/spole/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2019.01.05-15.55.46:475][  0]LogInit: Texture streaming: Enabled
+[2019.01.05-15.55.46:546][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.01.05-15.55.46:582][  0]LogInit: Transaction tracking system initialized
+[2019.01.05-15.55.46:669][  0]BlueprintLog: New page: Editor Load
+[2019.01.05-15.55.46:910][  0]LocalizationService: Localization service is disabled
+[2019.01.05-15.55.47:829][  0]LogFileCache: Scanning file cache for directory 'C:/Users/spole/OneDrive/Документы/FuturacingMobile/FuturacingMobile/Content/' took 0.03s
+[2019.01.05-15.55.47:829][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.01.05-15.55.47:829][  0]LogCook: Display: Mobile HDR setting 0
+[2019.01.05-15.55.47:830][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2019.01.05-15.55.47:830][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.01.05-15.55.47:830][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.01.05-15.55.47:830][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.01.05-15.55.47:830][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.01.05-15.55.48:114][  0]SourceControl: Source control is disabled
+[2019.01.05-15.55.48:114][  0]Cmd: MAP LOAD FILE="../../../../../../Users/spole/OneDrive/Документы/FuturacingMobile/FuturacingMobile/Content/AllAssets/Levels/Garage/GarageMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.01.05-15.55.48:115][  0]LightingResults: New page: Lighting Build
+[2019.01.05-15.55.48:124][  0]MapCheck: New page: Map Check
+[2019.01.05-15.55.48:124][  0]LightingResults: New page: Lighting Build
+[2019.01.05-15.55.49:083][  0]LogBlueprint: Warning: [Compiler AllCarClass] Input Axis Event references unknown Axis 'ThrotleAxis' for  InputAxis ThrotleAxis
+[2019.01.05-15.55.49:083][  0]LogBlueprint: Warning: [Compiler AllCarClass] Input Axis Event references unknown Axis 'SteeringAxis' for  InputAxis SteeringAxis
+[2019.01.05-15.55.49:239][  0]LogBlueprint: Warning: [Compiler AllCarClass] [0018,85] Compile of AllCarClass successful, but with 2 Warning(s) [in 345 ms] (/Game/AllAssets/Stile3/Blueprint/VehicleClass/AllCarClass.AllCarClass)
+[2019.01.05-15.55.50:539][  0]LogAIModule: Creating AISystem for world GarageMap
+[2019.01.05-15.55.50:565][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.01.05-15.55.50:619][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.01.05-15.55.50:619][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,356ms to complete.
+[2019.01.05-15.55.50:619][  0]LogFileHelpers: Loading map 'GarageMap' took 2.505
+[2019.01.05-15.55.50:769][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.05-15.55.50:795][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.05-15.55.50:817][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.05-15.55.50:831][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.05-15.55.50:851][  0]LogCollectionManager: Loaded 0 collections in 0.006873 seconds
+[2019.01.05-15.55.50:875][  0]LogFileCache: Scanning file cache for directory 'C:/Users/spole/OneDrive/Документы/FuturacingMobile/FuturacingMobile/Saved/Collections/' took 0.01s
+[2019.01.05-15.55.50:875][  0]LogFileCache: Scanning file cache for directory 'C:/Users/spole/OneDrive/Документы/FuturacingMobile/FuturacingMobile/Content/Developers/spole/Collections/' took 0.00s
+[2019.01.05-15.55.50:875][  0]LogFileCache: Scanning file cache for directory 'C:/Users/spole/OneDrive/Документы/FuturacingMobile/FuturacingMobile/Content/Collections/' took 0.00s
+[2019.01.05-15.55.50:875][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2019.01.05-15.55.50:891][  0]LogContentBrowser: Native class hierarchy populated in 0.0160 seconds. Added 2651 classes and 620 folders.
+[2019.01.05-15.55.50:914][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2019.01.05-15.55.50:918][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.05-15.55.50:920][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.05-15.55.50:921][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.05-15.55.50:922][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.05-15.55.50:923][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.05-15.55.50:925][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.05-15.55.50:927][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.05-15.55.50:928][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.05-15.55.50:930][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.05-15.55.50:931][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.05-15.55.50:933][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.05-15.55.50:934][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.05-15.55.50:935][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.05-15.55.50:936][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.05-15.55.50:938][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.05-15.55.50:939][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.05-15.55.50:940][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.05-15.55.50:941][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.05-15.55.50:942][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.05-15.55.50:943][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.05-15.55.50:944][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.05-15.55.50:946][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.05-15.55.50:947][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.05-15.55.50:948][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.05-15.55.50:949][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.05-15.55.50:950][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.05-15.55.51:031][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2019.01.05-15.55.51:041][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2019.01.05-15.55.51:061][  0]LogSlate: Took 0.000262 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.01.05-15.55.51:064][  0]LogSlate: Took 0.000204 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.01.05-15.55.51:071][  0]LogSlate: Took 0.000221 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.01.05-15.55.51:203][  0]LogRenderer: Reallocating scene render targets to support 804x540 Format 10 NumSamples 1 (Frame:1).
+[2019.01.05-15.55.51:388][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2019.01.05-15.55.51:388][  0]LogLoad: (Engine Initialization) Total time: 21.00 seconds
+[2019.01.05-15.55.51:388][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.01.05-15.55.51:474][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.01.05-15.55.51:536][  0]LogSlate: Took 0.000515 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.01.05-15.55.52:231][  8]LogAssetRegistry: Asset discovery search completed in 13.4946 seconds
+[2019.01.05-15.55.52:234][  8]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2019.01.05-15.55.52:234][  8]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000082 seconds (updated 0 objects)
+[2019.01.05-16.06.08:873][886]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.05-16.06.09:482][905]LogTexture: Display: Building textures: GРесурс_99 (BGRA8, 79X67)
+[2019.01.05-16.06.09:482][905]LogTexture: Display: Building textures: GРесурс_138 (BGRA8, 231X94)
+[2019.01.05-16.06.09:482][905]LogTexture: Display: Building textures: GРесурс_130 (BGRA8, 94X81)
+[2019.01.05-16.06.09:482][905]LogTexture: Display: Building textures: G1Ресурс_176 (BGRA8, 232X95)
+[2019.01.05-16.06.09:482][905]LogTexture: Display: Building textures: GРесурс_104 (BGRA8, 36X35)
+[2019.01.05-16.06.09:482][905]LogTexture: Display: Building textures: GРесурс_106 (BGRA8, 36X35)
+[2019.01.05-16.06.09:482][905]LogTexture: Display: Building textures: GResurs_121 (BGRA8, 652X28)
+[2019.01.05-16.06.09:482][905]LogTexture: Display: Building textures: GРесурс_110 (BGRA8, 36X35)
+[2019.01.05-16.06.09:482][905]LogTexture: Display: Building textures: GРесурс_109 (BGRA8, 36X35)
+[2019.01.05-16.06.09:482][905]LogTexture: Display: Building textures: GResurs_120 (BGRA8, 354X26)
+[2019.01.05-16.06.09:482][905]LogTexture: Display: Building textures: GРесурс_118 (BGRA8, 652X28)
+[2019.01.05-16.06.09:482][905]LogTexture: Display: Building textures: GРесурс_117 (BGRA8, 75X78)
+[2019.01.05-16.06.09:482][905]LogTexture: Display: Building textures: GРесурс_107 (BGRA8, 60X52)
+[2019.01.05-16.06.09:482][905]LogTexture: Display: Building textures: GРесурс_111 (BGRA8, 60X52)
+[2019.01.05-16.06.09:483][905]LogTexture: Display: Building textures: GРесурс_102 (BGRA8, 97X59)
+[2019.01.05-16.06.09:483][905]LogTexture: Display: Building textures: GРесурс_100 (BGRA8, 81X73)
+[2019.01.05-16.06.09:483][905]LogTexture: Display: Building textures: GРесурс_103 (BGRA8, 105X27)
+[2019.01.05-16.06.09:483][905]LogTexture: Display: Building textures: GРесурс_101 (BGRA8, 75X72)
+[2019.01.05-16.06.09:483][905]LogTexture: Display: Building textures: GРесурс_139 (BGRA8, 228X91)
+[2019.01.05-16.06.09:487][905]LogSlate: Took 0.000442 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.01.05-16.06.09:512][905]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/AllAssets/Levels/Garage/MenuBP/TuningParametr.TuningParametr
+[2019.01.05-16.06.10:641][905]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0017 seconds. Added 117 classes and 0 folders.
+[2019.01.05-16.06.12:886][905]LogSlate: Took 0.000392 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.01.05-16.06.18:766][182]LogSlate: Window 'TuningParametr' being destroyed
+[2019.01.05-16.06.18:772][182]LogSlate: Window 'TuningParametr' being destroyed
+[2019.01.05-16.06.23:571][650]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/AllAssets/Levels/Garage/MenuBP/MenuPanel.MenuPanel
+[2019.01.05-16.06.52:637][125]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/AllAssets/Levels/Garage/MenuBP/LevelButton.LevelButton
+[2019.01.05-16.06.55:694][219]LogSlate: Took 0.000491 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.01.05-16.10.12:448][782]LogBlueprint: Error: [Compiler ] Delay  cannot be placed in function graph
+[2019.01.05-16.10.12:448][782]BlueprintLog: New page: Collapse to Function
+[2019.01.05-16.10.12:448][782]BlueprintLog: Error: Delay  cannot be placed in function graph
+[2019.01.05-16.10.12:468][782]LogBlueprint: Warning: [Compiler ] [0882,08] Compile of  failed. 1 Fatal Issue(s) 0 Warning(s) [in 12 ms] ()
+[2019.01.05-16.10.22:247][326]LogSlate: Window 'Message Log' being destroyed
+[2019.01.05-16.10.22:253][326]LogSlate: Window 'Message Log' being destroyed
+[2019.01.05-16.10.28:077][653]BlueprintLog: New page: Collapse to Macro
+[2019.01.05-16.14.27:218][279]BlueprintLog: New page: Compile LevelButton
+[2019.01.05-16.14.29:094][311]LogSavePackage: Moving '../../../../../../Users/spole/OneDrive/Документы/FuturacingMobile/FuturacingMobile/Saved/LevelButtonF37CCFF2469AC61BA3FC31BBC0799166.tmp' to '../../../../../../Users/spole/OneDrive/Документы/FuturacingMobile/FuturacingMobile/Content/AllAssets/Levels/Garage/MenuBP/LevelButton.uasset'
+[2019.01.05-16.17.29:974][629]LogAssetEditorManager: Opening Asset editor for UserDefinedEnum /Game/AllAssets/Levels/Garage/MenuBP/EnumSwithButton.EnumSwithButton
+[2019.01.05-16.18.31:829][160]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.01.05-16.18.31:829][160]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.01.05-16.19.14:395][292]LogSavePackage: Moving '../../../../../../Users/spole/OneDrive/Документы/FuturacingMobile/FuturacingMobile/Saved/EnumSwithButtonE2F322144102EEA9D2858D882081605C.tmp' to '../../../../../../Users/spole/OneDrive/Документы/FuturacingMobile/FuturacingMobile/Content/AllAssets/Levels/Garage/MenuBP/EnumSwithButton.uasset'
+[2019.01.05-16.21.07:054][565]BlueprintLog: New page: Compile LevelButton
+[2019.01.05-16.21.08:663][583]LogSavePackage: Moving '../../../../../../Users/spole/OneDrive/Документы/FuturacingMobile/FuturacingMobile/Saved/LevelButton5FBA5EF640E9DC8623B2CEAD8196171E.tmp' to '../../../../../../Users/spole/OneDrive/Документы/FuturacingMobile/FuturacingMobile/Content/AllAssets/Levels/Garage/MenuBP/LevelButton.uasset'
+[2019.01.05-16.21.18:790][187]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/AllAssets/Levels/Garage/MenuBP/InterfaceButtonClick.InterfaceButtonClick
+[2019.01.05-16.21.42:886][226]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.01.05-16.21.42:886][226]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.01.05-16.22.20:869][137]BlueprintLog: New page: Compile InterfaceButtonClick
+[2019.01.05-16.22.24:568][384]LogSavePackage: Moving '../../../../../../Users/spole/OneDrive/Документы/FuturacingMobile/FuturacingMobile/Saved/InterfaceButtonClick01E3D3344E5954DFC40A3BB0784A8A68.tmp' to '../../../../../../Users/spole/OneDrive/Документы/FuturacingMobile/FuturacingMobile/Content/AllAssets/Levels/Garage/MenuBP/InterfaceButtonClick.uasset'
+[2019.01.05-16.25.20:619][907]BlueprintLog: New page: Compile LevelButton
+[2019.01.05-16.25.22:185][921]LogSavePackage: Moving '../../../../../../Users/spole/OneDrive/Документы/FuturacingMobile/FuturacingMobile/Saved/LevelButton1BF98A084E116F35FA6A20A4B843FD86.tmp' to '../../../../../../Users/spole/OneDrive/Документы/FuturacingMobile/FuturacingMobile/Content/AllAssets/Levels/Garage/MenuBP/LevelButton.uasset'
+[2019.01.05-16.28.04:017][ 68]LogSlate: Took 0.003151 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2019.01.05-16.28.11:968][376]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.05-16.28.12:057][376]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/AllAssets/Levels/Garage/GarageMap.GarageMap:PersistentLevel' has LevelScriptBlueprint '/Game/AllAssets/Levels/Garage/GarageMap.GarageMap:PersistentLevel.GarageMap' with GeneratedClass '/Game/AllAssets/Levels/Garage/GarageMap.GarageMap_C' with ClassGeneratedBy '/Game/AllAssets/Levels/Garage/GarageMap.GarageMap:PersistentLevel.GarageMap'
+[2019.01.05-16.28.12:057][376]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.01.05-16.28.12:091][376]LogPlayLevel: [PlayLevel] Compiling MenuPanel before play...
+[2019.01.05-16.28.12:759][376]LogPlayLevel: [PlayLevel] Compiling PROTO_BP_AnimBlueprint_0 before play...
+[2019.01.05-16.28.12:815][376]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2019.01.05-16.29.36:524][376]LogStats: FPlatformStackWalk::StackWalkAndDump - 83.709 s
+[2019.01.05-16.29.36:524][376]LogOutputDevice: Error: === Handled ensure: ===
+[2019.01.05-16.29.36:524][376]LogOutputDevice: Error: 
+[2019.01.05-16.29.36:524][376]LogOutputDevice: Error: Ensure condition failed: !IsGarbageCollecting() [File:D:\Build\++UE4\Sync\Engine\Source\Runtime\UMG\Private\Slate\SObjectWidget.cpp] [Line: 41]
+[2019.01.05-16.29.36:524][376]LogOutputDevice: Error: SObjectWidget for 'LevelButton_C /Engine/Transient.World_3:MenuPanel_C_12.WidgetTree_0.LevelButton' destroyed while collecting garbage.  This can lead to multiple GCs being required to cleanup the object.  Possible causes might be,
+[2019.01.05-16.29.36:524][376]LogOutputDevice: Error: 1) ReleaseSlateResources not being implemented for the owner of this pointer.
+[2019.01.05-16.29.36:524][376]LogOutputDevice: Error: 2) You may just be holding onto some slate pointers on an actor that don't get reset until the actor is Garbage Collected.  You should avoid doing this, and instead reset those references when the actor is Destroyed.
+[2019.01.05-16.29.36:524][376]LogOutputDevice: Error: Stack: 
+[2019.01.05-16.29.36:524][376]LogOutputDevice: Error: [Callstack] 0x00007fffbc9e9033 UE4Editor-UMG.dll!SObjectWidget::~SObjectWidget() [d:\build\++ue4\sync\engine\source\runtime\umg\private\slate\sobjectwidget.cpp:41]
+[2019.01.05-16.29.36:524][376]LogOutputDevice: Error: [Callstack] 0x00007fffc3c4db5a UE4Editor-SlateCore.dll!FSlotBase::~FSlotBase() [d:\build\++ue4\sync\engine\source\runtime\slatecore\private\slotbase.cpp:77]
+[2019.01.05-16.29.36:524][376]LogOutputDevice: Error: [Callstack] 0x00007fffde5e25c7 UE4Editor-Slate.dll!TIndirectArray<SConstraintCanvas::FSlot,FDefaultAllocator>::~TIndirectArray<SConstraintCanvas::FSlot,FDefaultAllocator>() [d:\build\++ue4\sync\engine\source\runtime\core\public\containers\indirectarray.h:65]
+[2019.01.05-16.29.36:524][376]LogOutputDevice: Error: [Callstack] 0x00007fffde5e60f9 UE4Editor-Slate.dll!SConstraintCanvas::~SConstraintCanvas() []
+[2019.01.05-16.29.36:524][376]LogOutputDevice: Error: [Callstack] 0x00007fffc3c45cee UE4Editor-SlateCore.dll!TIndirectArray<SOverlay::FOverlaySlot,FDefaultAllocator>::~TIndirectArray<SOverlay::FOverlaySlot,FDefaultAllocator>() [d:\build\++ue4\sync\engine\source\runtime\core\public\containers\indirectarray.h:65]
+[2019.01.05-16.29.36:524][376]LogOutputDevice: Error: [Callstack] 0x00007fffc3c4e9a5 UE4Editor-SlateCore.dll!SOverlay::~SOverlay() []
+[2019.01.05-16.29.36:524][376]LogOutputDevice: Error: [Callstack] 0x00007fffc3c4db5a UE4Editor-SlateCore.dll!FSlotBase::~FSlotBase() [d:\build\++ue4\sync\engine\source\runtime\slatecore\private\slotbase.cpp:77]
+[2019.01.05-16.29.36:524][376]LogOutputDevice: Error: [Callstack] 0x00007fffde5e25c7 UE4Editor-Slate.dll!TIndirectArray<SConstraintCanvas::FSlot,FDefaultAllocator>::~TIndirectArray<SConstraintCanvas::FSlot,FDefaultAllocator>() [d:\build\++ue4\sync\engine\source\runtime\core\public\containers\indirectarray.h:65]
+[2019.01.05-16.29.36:524][376]LogOutputDevice: Error: [Callstack] 0x00007fffde5e60f9 UE4Editor-Slate.dll!SConstraintCanvas::~SConstraintCanvas() []
+[2019.01.05-16.29.36:524][376]LogOutputDevice: Error: [Callstack] 0x00007fffbcab389b UE4Editor-UMG.dll!UCanvasPanel::ReleaseSlateResources() [d:\build\++ue4\sync\engine\source\runtime\umg\private\components\canvaspanel.cpp:25]
+[2019.01.05-16.29.36:524][376]LogOutputDevice: Error: [Callstack] 0x00007fffd86ac9e1 UE4Editor-CoreUObject.dll!UObject::ConditionalBeginDestroy() [d:\build\++ue4\sync\engine\source\runtime\coreuobject\private\uobject\obj.cpp:954]
+[2019.01.05-16.29.36:524][376]LogOutputDevice: Error: [Callstack] 0x00007fffd867d6ee UE4Editor-CoreUObject.dll!UnhashUnreachableObjects() [d:\build\++ue4\sync\engine\source\runtime\coreuobject\private\uobject\garbagecollection.cpp:1645]
+[2019.01.05-16.29.36:524][376]LogOutputDevice: Error: [Callstack] 0x00007fffd85ffda2 UE4Editor-CoreUObject.dll!CollectGarbageInternal() [d:\build\++ue4\sync\engine\source\runtime\coreuobject\private\uobject\garbagecollection.cpp:1591]
+[2019.01.05-16.29.36:524][376]LogOutputDevice: Error: [Callstack] 0x00007fffd85ff2e8 UE4Editor-CoreUObject.dll!CollectGarbage() [d:\build\++ue4\sync\engine\source\runtime\coreuobject\private\uobject\garbagecollection.cpp:1676]
+[2019.01.05-16.29.36:524][376]LogOutputDevice: Error: [Callstack] 0x00007fffbd7e212c UE4Editor-UnrealEd.dll!FInternalPlayLevelUtils::ResolveDirtyBlueprints() [d:\build\++ue4\sync\engine\source\editor\unrealed\private\playlevel.cpp:1840]
+[2019.01.05-16.29.36:524][376]LogOutputDevice: Error: [Callstack] 0x00007fffbd7ca32c UE4Editor-UnrealEd.dll!UEditorEngine::PlayInEditor() [d:\build\++ue4\sync\engine\source\editor\unrealed\private\playlevel.cpp:2296]
+[2019.01.05-16.29.36:525][376]LogOutputDevice: Error: [Callstack] 0x00007fffbd7e91b6 UE4Editor-UnrealEd.dll!UEditorEngine::StartQueuedPlayMapRequest() [d:\build\++ue4\sync\engine\source\editor\unrealed\private\playlevel.cpp:1270]
+[2019.01.05-16.29.36:525][376]LogOutputDevice: Error: [Callstack] 0x00007fffbd1e17a1 UE4Editor-UnrealEd.dll!UEditorEngine::Tick() [d:\build\++ue4\sync\engine\source\editor\unrealed\private\editorengine.cpp:1640]
+[2019.01.05-16.29.36:525][376]LogOutputDevice: Error: [Callstack] 0x00007fffbdb02216 UE4Editor-UnrealEd.dll!UUnrealEdEngine::Tick() [d:\build\++ue4\sync\engine\source\editor\unrealed\private\unrealedengine.cpp:403]
+[2019.01.05-16.29.36:525][376]LogOutputDevice: Error: [Callstack] 0x00007ff692296225 UE4Editor.exe!FEngineLoop::Tick() [d:\build\++ue4\sync\engine\source\runtime\launch\private\launchengineloop.cpp:3699]
+[2019.01.05-16.29.36:525][376]LogOutputDevice: Error: [Callstack] 0x00007ff6922a596c UE4Editor.exe!GuardedMain() [d:\build\++ue4\sync\engine\source\runtime\launch\private\launch.cpp:174]
+[2019.01.05-16.29.36:525][376]LogOutputDevice: Error: [Callstack] 0x00007ff6922a59ea UE4Editor.exe!GuardedMainWrapper() [d:\build\++ue4\sync\engine\source\runtime\launch\private\windows\launchwindows.cpp:145]
+[2019.01.05-16.29.36:525][376]LogOutputDevice: Error: [Callstack] 0x00007ff6922b48da UE4Editor.exe!WinMain() [d:\build\++ue4\sync\engine\source\runtime\launch\private\windows\launchwindows.cpp:276]
+[2019.01.05-16.29.36:525][376]LogOutputDevice: Error: [Callstack] 0x00007ff6922b659a UE4Editor.exe!__scrt_common_main_seh() [f:\dd\vctools\crt\vcstartup\src\startup\exe_common.inl:283]
+[2019.01.05-16.29.36:525][376]LogOutputDevice: Error: [Callstack] 0x00007ff810487e94 KERNEL32.DLL!UnknownFunction []
+[2019.01.05-16.29.36:525][376]LogOutputDevice: Error: [Callstack] 0x00007ff810ee7ad1 ntdll.dll!UnknownFunction []
+[2019.01.05-16.29.36:525][376]LogOutputDevice: Error: 
+[2019.01.05-16.29.36:535][376]LogStats:                SubmitErrorReport -  0.000 s
